@@ -11,13 +11,26 @@
             "id": "9ed5c74835bf5a77",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pivoting/Pivoting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b82e811977accde",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "Windows Privilege Escalation/Pasted/Pasted image 20230822070650.png"
+                "file": "Pivoting/Pasted/Pasted image 20230824231843.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Privilege Escalation/Pasted/Pasted image 20230822070650.png",
+                "file": "Pivoting/Pasted/Pasted image 20230824231843.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Privilege Escalation/Pasted/Pasted image 20230822070650.png",
+                "file": "Pivoting/Pasted/Pasted image 20230824231843.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Privilege Escalation/Pasted/Pasted image 20230822070650.png"
+                "file": "Pivoting/Pasted/Pasted image 20230824231843.png"
               }
             }
           }
@@ -146,9 +159,20 @@
   },
   "active": "886506d4563cb180",
   "lastOpenFiles": [
-    "Windows Privilege Escalation/Pasted/Pasted image 20230822070831.png",
-    "Windows Privilege Escalation/Pasted/Pasted image 20230822070650.png",
+    "Pivoting/Pasted",
+    "Pivoting/Pasted/Pasted image 20230824231727.png",
+    "Pivoting/Pasted/Pasted image 20230824225909.png",
+    "Tools installed/Pasted/Pasted image 20230824225242.png",
+    "Tools installed/Pasted/Pasted image 20230824225121.png",
+    "Tools installed/Tools installed.md",
+    "Pivoting/Pasted/Pasted image 20230824231843.png",
+    "Pivoting/Pivoting.md",
+    "Tools installed/Pasted",
+    "Tools installed",
     "Windows Privilege Escalation/Windows Privilege Escalation.md",
+    "Pivoting",
+    "Windows Privilege Escalation/Pasted/Pasted image 20230822070650.png",
+    "Windows Privilege Escalation/Pasted/Pasted image 20230822070831.png",
     "README.md",
     "Windows Privilege Escalation/Pasted",
     "Windows Privilege Escalation"

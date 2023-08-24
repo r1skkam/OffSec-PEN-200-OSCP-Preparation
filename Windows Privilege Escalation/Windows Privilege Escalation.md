@@ -62,3 +62,13 @@ netsh advfirewall show currentprofile
 
 https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation
 
+## 23082023Wed
+
+```
+net group /domain "Domain Admins"
+```
+
+```
+net group /domain "Domain Controllers"
+```
+
