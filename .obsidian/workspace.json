@@ -23,9 +23,11 @@
             "id": "1b82e811977accde",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pivoting/Pasted/Pasted image 20230824231843.png"
+                "file": "Proof/Proof.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pivoting/Pasted/Pasted image 20230824231843.png",
+                "file": "Proof/Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pivoting/Pasted/Pasted image 20230824231843.png",
+                "file": "Proof/Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pivoting/Pasted/Pasted image 20230824231843.png"
+                "file": "Proof/Proof.md"
               }
             }
           }
@@ -157,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "886506d4563cb180",
+  "active": "1b82e811977accde",
   "lastOpenFiles": [
+    "Pivoting/Pivoting.md",
+    "Proof/Proof.md",
+    "Proof",
     "Pivoting/Pasted",
     "Pivoting/Pasted/Pasted image 20230824231727.png",
     "Pivoting/Pasted/Pasted image 20230824225909.png",
@@ -166,7 +171,6 @@
     "Tools installed/Pasted/Pasted image 20230824225121.png",
     "Tools installed/Tools installed.md",
     "Pivoting/Pasted/Pasted image 20230824231843.png",
-    "Pivoting/Pivoting.md",
     "Tools installed/Pasted",
     "Tools installed",
     "Windows Privilege Escalation/Windows Privilege Escalation.md",
