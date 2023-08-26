@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof/Proof.md",
+                "file": "Writing the Report/Writing the Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof/Proof.md",
+                "file": "Writing the Report/Writing the Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof/Proof.md",
+                "file": "Writing the Report/Writing the Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof/Proof.md"
+                "file": "Writing the Report/Writing the Report.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "1b82e811977accde",
   "lastOpenFiles": [
+    "Proof/Proof.md",
+    "Writing the Report/Writing the Report.md",
+    "Writing the Report",
     "Pasted image 20230826204837.png",
     "Useful Commands/Useful Commands.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
@@ -176,11 +179,9 @@
     "_Standalone_Boxes/192.168.1.73/nmap.md",
     "_AD_Boxes",
     "_Standalone_Boxes/192.168.1.73",
-    "Proof/Proof.md",
     "_Standalone_Boxes",
     "Useful Commands",
     "Pivoting/Pivoting.md",
-    "Proof",
     "Pivoting/Pasted/Pasted image 20230824231727.png",
     "Pivoting/Pasted/Pasted image 20230824225909.png",
     "Tools installed/Pasted/Pasted image 20230824225242.png",
