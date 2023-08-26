@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Scripts/Useful Scripts.md",
+                "file": "Useful Commands/Useful Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Scripts/Useful Scripts.md",
+                "file": "Useful Commands/Useful Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Scripts/Useful Scripts.md",
+                "file": "Useful Commands/Useful Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Scripts/Useful Scripts.md"
+                "file": "Useful Commands/Useful Commands.md"
               }
             }
           }
@@ -161,11 +161,14 @@
   },
   "active": "1b82e811977accde",
   "lastOpenFiles": [
+    "Useful-Scripts/Useful Scripts.md",
+    "Useful-Scripts/Pasted/Pasted image 20230826201506.png",
+    "Useful Commands/Pasted/Pasted image 20230826195512.png",
+    "Useful Commands/Pasted",
+    "Useful-Scripts/Pasted",
     "Useful Commands/Useful Commands.md",
-    "Useful Scripts/Useful Scripts.md",
-    "Useful Scripts",
+    "Useful-Scripts",
     "Modified Exploits",
-    "Pasted image 20230826195512.png",
     "_Standalone_Boxes/192.168.1.73/nmap.md",
     "_AD_Boxes",
     "_Standalone_Boxes/192.168.1.73",
@@ -181,8 +184,6 @@
     "Tools installed/Pasted/Pasted image 20230824225121.png",
     "Tools installed/Tools installed.md",
     "Pivoting/Pasted/Pasted image 20230824231843.png",
-    "Tools installed/Pasted",
-    "Tools installed",
     "Windows Privilege Escalation/Windows Privilege Escalation.md",
     "Windows Privilege Escalation/Pasted/Pasted image 20230822070650.png",
     "Windows Privilege Escalation/Pasted/Pasted image 20230822070831.png",

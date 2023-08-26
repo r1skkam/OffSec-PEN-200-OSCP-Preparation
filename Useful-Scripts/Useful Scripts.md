@@ -4,7 +4,15 @@
 
 https://www.youtube.com/@c0nd4
 
-https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
-
 https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
+
+```
+wget -c https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
+```
+
+![[Pasted image 20230826201506.png]]
+
+```
+bash LinEnum.sh
+```
 

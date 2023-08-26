@@ -14,3 +14,12 @@ searchsploit moinmoin
 
 ![[Pasted image 20230826195512.png]]
 
+```
+python3 -m http.server 80
+```
+
+```
+bash LinEnum.sh
+```
+
+
