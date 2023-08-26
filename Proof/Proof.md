@@ -6,7 +6,7 @@ https://www.youtube.com/@c0nd4
 
 **Linux proof**
 ```
-hostname && whoami && cat proof.txt && ip a
+hostname && whoami && /usr/bin/cat proof.txt && ip a
 ```
 
 **Windows proof**
@@ -14,3 +14,12 @@ hostname && whoami && cat proof.txt && ip a
 hostname && whoami.exe && type proof.txt && ipconfig /all
 ```
 
+```
+which cat
+```
+
+```
+/usr/bin/cat
+```
+
+![[Pasted image 20230826204837.png]]
