@@ -4,13 +4,7 @@
 
 https://www.youtube.com/@c0nd4
 
-**Linux proof**
-```
-hostname && whoami && cat proof.txt && ip a
-```
+https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
 
-**Windows proof**
-```
-hostname && whoami.exe && type proof.txt && ipconfig /all
-```
+https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
 

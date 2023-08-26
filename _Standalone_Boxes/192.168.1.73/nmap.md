@@ -4,13 +4,9 @@
 
 https://www.youtube.com/@c0nd4
 
-**Linux proof**
 ```
-hostname && whoami && cat proof.txt && ip a
+nmap -p- -sC -sV -oA tcp_all_ports 192.168.1.73
 ```
 
-**Windows proof**
-```
-hostname && whoami.exe && type proof.txt && ipconfig /all
-```
+MoinMoin web server on port 8080
 

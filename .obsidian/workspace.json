@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof/Proof.md",
+                "file": "Useful Scripts/Useful Scripts.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof/Proof.md",
+                "file": "Useful Scripts/Useful Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof/Proof.md",
+                "file": "Useful Scripts/Useful Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof/Proof.md"
+                "file": "Useful Scripts/Useful Scripts.md"
               }
             }
           }
@@ -161,8 +161,18 @@
   },
   "active": "1b82e811977accde",
   "lastOpenFiles": [
-    "Pivoting/Pivoting.md",
+    "Useful Commands/Useful Commands.md",
+    "Useful Scripts/Useful Scripts.md",
+    "Useful Scripts",
+    "Modified Exploits",
+    "Pasted image 20230826195512.png",
+    "_Standalone_Boxes/192.168.1.73/nmap.md",
+    "_AD_Boxes",
+    "_Standalone_Boxes/192.168.1.73",
     "Proof/Proof.md",
+    "_Standalone_Boxes",
+    "Useful Commands",
+    "Pivoting/Pivoting.md",
     "Proof",
     "Pivoting/Pasted",
     "Pivoting/Pasted/Pasted image 20230824231727.png",
@@ -174,11 +184,8 @@
     "Tools installed/Pasted",
     "Tools installed",
     "Windows Privilege Escalation/Windows Privilege Escalation.md",
-    "Pivoting",
     "Windows Privilege Escalation/Pasted/Pasted image 20230822070650.png",
     "Windows Privilege Escalation/Pasted/Pasted image 20230822070831.png",
-    "README.md",
-    "Windows Privilege Escalation/Pasted",
-    "Windows Privilege Escalation"
+    "README.md"
   ]
 }
