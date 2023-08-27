@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof/Proof.md",
+                "file": "Useful Commands/Useful Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof/Proof.md",
+                "file": "Useful Commands/Useful Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof/Proof.md",
+                "file": "Useful Commands/Useful Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof/Proof.md"
+                "file": "Useful Commands/Useful Commands.md"
               }
             }
           }
@@ -161,10 +161,14 @@
   },
   "active": "1b82e811977accde",
   "lastOpenFiles": [
-    "Proof/Pasted/Pasted image 20230826204837.png",
-    "Proof/Proof.md",
-    "Proof/Pasted",
+    "Useful Commands/Pasted/Pasted image 20230827215712.png",
     "Useful Commands/Useful Commands.md",
+    "Default Ports and Protocols/Default Ports and Protocols.md",
+    "Default Ports and Protocols/Pasted",
+    "Default Ports and Protocols",
+    "Proof/Proof.md",
+    "Proof/Pasted/Pasted image 20230826204837.png",
+    "Proof/Pasted",
     "Useful-Scripts/Useful Scripts.md",
     "Writing the Report/Writing the Report.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
@@ -179,8 +183,6 @@
     "Modified Exploits",
     "_Standalone_Boxes/192.168.1.73/nmap.md",
     "_AD_Boxes",
-    "_Standalone_Boxes/192.168.1.73",
-    "_Standalone_Boxes",
     "Pivoting/Pivoting.md",
     "Pivoting/Pasted/Pasted image 20230824231727.png",
     "Pivoting/Pasted/Pasted image 20230824225909.png",
@@ -189,7 +191,6 @@
     "Pivoting/Pasted/Pasted image 20230824231843.png",
     "Windows Privilege Escalation/Windows Privilege Escalation.md",
     "Windows Privilege Escalation/Pasted/Pasted image 20230822070650.png",
-    "Windows Privilege Escalation/Pasted/Pasted image 20230822070831.png",
     "README.md"
   ]
 }

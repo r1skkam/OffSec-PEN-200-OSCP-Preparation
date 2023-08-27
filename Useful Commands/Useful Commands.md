@@ -22,4 +22,29 @@ python3 -m http.server 80
 bash LinEnum.sh
 ```
 
+### 27082023Sun
 
+```
+shutdown /r /t 0
+```
+
+```
+shutdown -r -t 0
+```
+
+```
+nmap -p389 192.168.237.103 --script=ldap-search
+```
+![[Pasted image 20230827215712.png]]
+
+```
+ldapsearch -x -b "dc=cybex,dc=nz" -H ldap://192.168.237.103
+```
+
+```
+ldapsearch -x -b "dc=ldap.forumsys,dc=com" -H ldap://192.168.237.103
+```
+
+```
+nmap -p 389 192.168.237.103 --script=ldap-search --script-args="ldap.username-creatigon"
+```
