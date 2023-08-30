@@ -16,3 +16,5 @@ wget -c https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
 bash LinEnum.sh
 ```
 
+https://github.com/GreyCorbel/admpwd/blob/master/Main/AdmPwd.PS/AdmPwd.PS.psd1
+
