@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pivoting/Pivoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b82e811977accde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "file": "Useful Commands/Useful Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "file": "Useful Commands/Useful Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "file": "Useful Commands/Useful Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md"
+                "file": "Useful Commands/Useful Commands.md"
               }
             }
           }
@@ -159,16 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "886506d4563cb180",
+  "active": "9ed5c74835bf5a77",
   "lastOpenFiles": [
+    "Default Ports and Protocols/Default Ports and Protocols.md",
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+    "Pivoting/Pivoting.md",
+    "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
     "Privilege Escalation (Linux)/Pasted",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Privilege Escalation (Linux)",
     "Writing the Report/Writing the Report.md",
     "Useful Commands/Useful Commands.md",
     "Useful Commands/Pasted/Pasted image 20230827215712.png",
-    "Default Ports and Protocols/Default Ports and Protocols.md",
     "Default Ports and Protocols/Pasted",
     "Default Ports and Protocols",
     "Proof/Proof.md",
@@ -184,15 +173,12 @@
     "Useful Commands/Pasted",
     "Useful-Scripts/Pasted",
     "Useful-Scripts",
-    "Modified Exploits",
     "_Standalone_Boxes/192.168.1.73/nmap.md",
-    "Pivoting/Pivoting.md",
     "Pivoting/Pasted/Pasted image 20230824231727.png",
     "Pivoting/Pasted/Pasted image 20230824225909.png",
     "Tools installed/Pasted/Pasted image 20230824225242.png",
     "Tools installed/Pasted/Pasted image 20230824225121.png",
     "Pivoting/Pasted/Pasted image 20230824231843.png",
-    "Privilege Escalation (Windows)/Pasted/Pasted image 20230822070650.png",
     "README.md"
   ]
 }
