@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Commands/Useful Commands.md",
+                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "834e15ce08766bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful Commands/Pivoting Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "right": {
     "id": "f2bb6ae1fe20a60e",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Commands/Useful Commands.md",
+                "file": "Useful Commands/Pivoting Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Commands/Useful Commands.md",
+                "file": "Useful Commands/Pivoting Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Commands/Useful Commands.md"
+                "file": "Useful Commands/Pivoting Commands.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ed5c74835bf5a77",
+  "active": "834e15ce08766bbe",
   "lastOpenFiles": [
-    "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
+    "Useful Commands/AD Commands.md",
+    "Useful Commands/Pivoting Commands.md",
     "Useful Commands/Useful Commands.md",
-    "Useful Commands/AD commands.md",
+    "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "Useful-Scripts/Useful Scripts.md",
     "Default Ports and Protocols/Default Ports and Protocols.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
