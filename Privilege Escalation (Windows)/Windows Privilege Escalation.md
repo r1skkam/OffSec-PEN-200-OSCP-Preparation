@@ -12,10 +12,6 @@ findstr /si password *.txt
 C:\Windows\System32>findstr /si password *.txt *.ini *.config
 ```
 
-[Privilege Escalation - Windows &#xB7; Total OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html)
-
-[PayloadsAllTheThings/Methodology and Resources/Windows - Privilege Escalation.md at master · swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
-
 ### Service Control
 
 ```
@@ -60,8 +56,6 @@ netsh advfirewall show currentprofile
 - windows-exploit-suggester.py (local)
 - Exploit Suggester (Metasploit)
 
-https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation
-
 ## 23082023Wed
 
 ```
@@ -71,4 +65,37 @@ net group /domain "Domain Admins"
 ```
 net group /domain "Domain Controllers"
 ```
+
+![[Windows Privilege Escalation.png]]
+
+```
+wmic computersystem LIST full
+```
+
+```
+wmic qfe get Caption,Description,HotFixID,InstalledOn
+```
+
+```
+cmdkey /list
+```
+
+```
+Get-Childitem –Path C:\ -Include *unattend*,*sysprep* -File -Recurse -ErrorAction SilentlyContinue | where {($_.Name -like "*.xml" -or $_.Name -like "*.txt" -or $_.Name -like "*.ini")}
+```
+
+```
+whoami /all
+```
+
+```
+whoami /priv
+```
+
+```
+cd C:\
+dir /s/b /A:-D RDCMan.settings == *.rdg == *_history* == httpd.conf == .htpasswd == .gitconfig == .git-credentials == Dockerfile == docker-compose.yml == access_tokens.db == accessTokens.json == azureProfile.json == appcmd.exe == scclient.exe == *.gpg$ == *.pgp$ == *config*.php == elasticsearch.y*ml == kibana.y*ml == *.p12$ == *.cer$ == known_hosts == *id_rsa* == *id_dsa* == *.ovpn == tomcat-users.xml == web.config == *.kdbx == KeePass.config == Ntds.dit == SAM == SYSTEM == security == software == FreeSSHDservice.ini == sysprep.inf == sysprep.xml == *vnc*.ini == *vnc*.c*nf* == *vnc*.txt == *vnc*.xml == php.ini == https.conf == https-xampp.conf == my.ini == my.cnf == access.log == error.log == server.xml == ConsoleHost_history.txt == pagefile.sys == NetSetup.log == iis6.log == AppEvent.Evt == SecEvent.Evt == default.sav == security.sav == software.sav == system.sav == ntuser.dat == index.dat == bash.exe == wsl.exe 2>nul | findstr /v ".dll"
+```
+
+
 

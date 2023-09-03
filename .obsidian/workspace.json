@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "file": "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "right": {
     "id": "f2bb6ae1fe20a60e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "file": "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "file": "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md"
+                "file": "Privilege Escalation (Windows)/Windows Privilege Escalation.md"
               }
             }
           }
@@ -161,17 +161,20 @@
   },
   "active": "834e15ce08766bbe",
   "lastOpenFiles": [
-    "Useful Commands/Useful Commands.md",
+    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
+    "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+    "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
+    "Privilege Escalation (Windows)/Pasted/Windows Privilege Escalation.png",
+    "Useful Commands/Useful Commands.md",
     "Default Ports and Protocols/Default Ports and Protocols.md",
     "Useful Commands/Pivoting Commands.md",
     "Useful Commands/AD Commands.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "Useful-Scripts/Useful Scripts.md",
     "Pivoting/Pivoting.md",
-    "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
     "Privilege Escalation (Linux)/Pasted",
-    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Privilege Escalation (Linux)",
     "Writing the Report/Writing the Report.md",
     "Useful Commands/Pasted/Pasted image 20230827215712.png",
@@ -193,7 +196,6 @@
     "Pivoting/Pasted/Pasted image 20230824225909.png",
     "Tools installed/Pasted/Pasted image 20230824225242.png",
     "Tools installed/Pasted/Pasted image 20230824225121.png",
-    "Pivoting/Pasted/Pasted image 20230824231843.png",
     "README.md"
   ]
 }
