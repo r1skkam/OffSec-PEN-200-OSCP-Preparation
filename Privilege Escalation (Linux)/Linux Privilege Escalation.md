@@ -29,5 +29,21 @@ pkexec "/bin/sh" #You will be prompted for your user password
 sudo pkexec /bin/sh
 ```
 
+```
+crontab -l
+```
+
+```
+ls -al /etc/cron* /etc/at*
+```
+
+```
+find / -name backup 2>/dev/null
+```
+
+```
+tar -zxvf backup
+```
+
 
 
