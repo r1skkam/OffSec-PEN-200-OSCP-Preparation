@@ -23,11 +23,9 @@
             "id": "834e15ce08766bbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Password Cracking/john.md",
-                "mode": "source",
-                "source": false
+                "file": "Password Cracking/Pasted/Pasted image 20230905090704.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password Cracking/john.md",
+                "file": "Password Cracking/Pasted/Pasted image 20230905090704.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Password Cracking/john.md",
+                "file": "Password Cracking/Pasted/Pasted image 20230905090704.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Password Cracking/john.md"
+                "file": "Password Cracking/Pasted/Pasted image 20230905090704.png"
               }
             }
           }
@@ -159,13 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "834e15ce08766bbe",
+  "active": "886506d4563cb180",
   "lastOpenFiles": [
-    "Pasted image 20230905090704.png",
-    "Pasted image 20230905090506.png",
-    "Password Cracking/hashcat.md",
+    "Password Cracking/Pasted/Pasted image 20230905090506.png",
+    "Password Cracking/Pasted/Pasted image 20230905085607.png",
+    "Password Cracking/Pasted/Pasted image 20230905090704.png",
+    "Password Cracking/Pasted",
+    "Database/mysql.md",
     "Password Cracking/john.md",
-    "Pasted image 20230905085607.png",
+    "Database",
+    "Password Cracking/hashcat.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Password Cracking",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
@@ -194,11 +195,8 @@
     "Reverse Shell Cheat Sheet",
     "Useful-Scripts/Pasted/Pasted image 20230826201506.png",
     "Useful Commands/Pasted/Pasted image 20230826195512.png",
-    "Useful Commands/Pasted",
-    "Useful-Scripts/Pasted",
     "_Standalone_Boxes/192.168.1.73/nmap.md",
     "Pivoting/Pasted/Pasted image 20230824231727.png",
-    "Pivoting/Pasted/Pasted image 20230824225909.png",
     "README.md"
   ]
 }
