@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/postgres.md",
+                "file": "Tools installed/Tools installed.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 200
   },
   "right": {
     "id": "f2bb6ae1fe20a60e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/postgres.md",
+                "file": "Tools installed/Tools installed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/postgres.md",
+                "file": "Tools installed/Tools installed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/postgres.md"
+                "file": "Tools installed/Tools installed.md"
               }
             }
           }
@@ -161,8 +161,19 @@
   },
   "active": "834e15ce08766bbe",
   "lastOpenFiles": [
-    "Database/Pasted/Pasted image 20230906173537.png",
+    "Tools installed/Pasted/Pasted image 20230906235804.png",
+    "Tools installed/Tools installed.md",
+    "Scanning/RustScan.md",
+    "Scanning/nmap.md",
+    "_AD_DC/AD & DC links.md",
+    "Scanning",
+    "_AD_DC/Pasted/Pasted image 20230906232335.png",
+    "_AD_DC/Active Directory & Domain Controller.md",
+    "_AD_DC/Pasted/Pasted image 20230906222705.png",
+    "_AD_DC/Pasted",
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Database/postgres.md",
+    "Database/Pasted/Pasted image 20230906173537.png",
     "Database/Pasted/Pasted image 20230906172856.png",
     "Database/mysql.md",
     "Database/Pasted/Pasted image 20230906083443.png",
@@ -170,10 +181,8 @@
     "Password Cracking/john.md",
     "Password Cracking/Pasted/Pasted image 20230906080549.png",
     "Password Cracking/Pasted/Pasted image 20230906080118.png",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Password Cracking/Pasted/Pasted image 20230905090506.png",
     "Password Cracking/Pasted/Pasted image 20230905085607.png",
-    "Password Cracking/Pasted/Pasted image 20230905090704.png",
     "Password Cracking/Pasted",
     "Database",
     "Password Cracking/hashcat.md",
@@ -181,8 +190,6 @@
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
-    "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
-    "Privilege Escalation (Windows)/Pasted/Windows Privilege Escalation.png",
     "Useful Commands/Useful Commands.md",
     "Default Ports and Protocols/Default Ports and Protocols.md",
     "Useful Commands/Pivoting Commands.md",
@@ -196,9 +203,6 @@
     "Default Ports and Protocols/Pasted",
     "Default Ports and Protocols",
     "Proof/Proof.md",
-    "Proof/Pasted",
-    "Writing the Report",
-    "Tools installed/Tools installed.md",
     "_Standalone_Boxes/192.168.1.73/nmap.md",
     "README.md"
   ]

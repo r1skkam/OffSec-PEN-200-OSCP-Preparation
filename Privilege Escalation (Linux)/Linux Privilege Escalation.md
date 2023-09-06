@@ -53,5 +53,9 @@ ps -aux
 pstree
 ```
 
+```
+ps -def
+```
+
 
 
