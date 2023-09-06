@@ -22,3 +22,11 @@ john --format=sha512crypt hash_algorithms
 
 ![[Pasted image 20230905090704.png]]
 
+![[Pasted image 20230906080118.png]]
+
+*Needed to install the jumbo release version of John*
+
+![[Pasted image 20230906080549.png]]
+
+https://www.openwall.com/john/
+

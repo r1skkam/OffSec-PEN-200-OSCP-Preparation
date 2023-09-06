@@ -45,5 +45,13 @@ find / -name backup 2>/dev/null
 tar -zxvf backup
 ```
 
+```
+ps -aux
+```
+
+```
+pstree
+```
+
 
 
