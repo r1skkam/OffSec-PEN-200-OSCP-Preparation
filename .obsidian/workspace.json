@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Default Ports and Protocols/Default Ports and Protocols.md",
+                "file": "Useful Commands/sudo.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "-zxvf",
+                "query": "sudo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Default Ports and Protocols/Default Ports and Protocols.md",
+                "file": "Useful Commands/sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Default Ports and Protocols/Default Ports and Protocols.md",
+                "file": "Useful Commands/sudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Default Ports and Protocols/Default Ports and Protocols.md"
+                "file": "Useful Commands/sudo.md"
               }
             }
           }
@@ -159,8 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "834e15ce08766bbe",
+  "active": "5d672a6d073d79d4",
   "lastOpenFiles": [
+    "Useful Commands/Useful Commands.md",
+    "Useful Commands/sudo.md",
+    "Database/SQLite3.md",
+    "Default Ports and Protocols/Default Ports and Protocols.md",
     "Scanning/nmap.md",
     "Database/postgres.md",
     "Scanning/RustScan.md",
@@ -190,8 +195,6 @@
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
-    "Useful Commands/Useful Commands.md",
-    "Default Ports and Protocols/Default Ports and Protocols.md",
     "Useful Commands/Pivoting Commands.md",
     "Useful Commands/AD Commands.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
