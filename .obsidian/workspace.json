@@ -78,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "f2bb6ae1fe20a60e",
@@ -160,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d672a6d073d79d4",
+  "active": "834e15ce08766bbe",
   "lastOpenFiles": [
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Useful Commands/Useful Commands.md",
     "Useful Commands/sudo.md",
     "Database/SQLite3.md",
@@ -177,7 +177,6 @@
     "_AD_DC/Active Directory & Domain Controller.md",
     "_AD_DC/Pasted/Pasted image 20230906222705.png",
     "_AD_DC/Pasted",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Database/Pasted/Pasted image 20230906173537.png",
     "Database/Pasted/Pasted image 20230906172856.png",
     "Database/mysql.md",

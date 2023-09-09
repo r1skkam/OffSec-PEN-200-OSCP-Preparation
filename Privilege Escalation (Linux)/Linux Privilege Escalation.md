@@ -57,5 +57,12 @@ pstree
 ps -def
 ```
 
+```
+int main(void)
+{
+	system("cat /root/proof.txt")
+}
+```
+
 
 

