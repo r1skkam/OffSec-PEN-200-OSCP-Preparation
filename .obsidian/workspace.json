@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful-Scripts/node.md",
+                "file": "Password Cracking/hashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful-Scripts/node.md",
+                "file": "Password Cracking/hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful-Scripts/node.md",
+                "file": "Password Cracking/hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful-Scripts/node.md"
+                "file": "Password Cracking/hashing.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "834e15ce08766bbe",
   "lastOpenFiles": [
-    "Useful-Scripts/ruby.md",
+    "Password Cracking/md5_decode.py",
+    "Password Cracking/md5_encode.py",
     "Useful-Scripts/node.md",
+    "Password Cracking/hashing.md",
+    "Useful-Scripts/ruby.md",
     "Useful Commands/sudo.md",
     "Useful-Scripts/python.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
@@ -201,11 +204,8 @@
     "Useful Commands/AD Commands.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "Useful-Scripts/Useful Scripts.md",
-    "Pivoting/Pivoting.md",
     "Privilege Escalation (Linux)/Pasted",
     "Privilege Escalation (Linux)",
-    "Writing the Report/Writing the Report.md",
-    "Default Ports and Protocols/Pasted",
-    "Default Ports and Protocols"
+    "Default Ports and Protocols/Pasted"
   ]
 }
