@@ -161,6 +161,9 @@
   },
   "active": "834e15ce08766bbe",
   "lastOpenFiles": [
+    "Password Cracking/hashlib_sha1.py",
+    "Password Cracking/hashlib_sha256.py",
+    "Password Cracking/hashlib_md5.py",
     "Password Cracking/md5_decode.py",
     "Password Cracking/md5_encode.py",
     "Useful-Scripts/node.md",
@@ -203,9 +206,6 @@
     "Useful Commands/Pivoting Commands.md",
     "Useful Commands/AD Commands.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
-    "Useful-Scripts/Useful Scripts.md",
-    "Privilege Escalation (Linux)/Pasted",
-    "Privilege Escalation (Linux)",
-    "Default Ports and Protocols/Pasted"
+    "Useful-Scripts/Useful Scripts.md"
   ]
 }

@@ -1,7 +1,7 @@
 import hashlib
 
 # initializing string
-str2hash = "admin"
+str2hash = "Hello, World!"
 
 # encoding admin using encode()
 # then sending to md5()

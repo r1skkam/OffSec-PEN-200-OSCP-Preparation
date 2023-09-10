@@ -12,7 +12,7 @@ def timing(f):
         time1 = time.time()
         ret = f(*args)
         time2 = time.time()
-        print '%s Time: %0.3f s' % (f.func_name, float(time2 - time1))
+        print ('%s Time: %0.3f s' % (f.func_name, float(time2 - time1)))
         return ret
 
     return wrap
@@ -46,3 +46,5 @@ def decryptMD5(testHash):
             s.append(0)
 
 print(decryptMD5(sys.argv[1]))
+
+# https://gist.github.com/miodeqqq/8e064f14d446348914f0e45818234a2e
