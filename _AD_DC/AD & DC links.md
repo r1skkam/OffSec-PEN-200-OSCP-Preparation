@@ -8,3 +8,8 @@ https://ippsec.rocks/?#
 
 ![[Pasted image 20230906232335.png]]
 
+https://orange-cyberdefense.github.io/ocd-mindmaps/
+
+https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg
+
+https://github.com/Orange-Cyberdefense/ocd-mindmaps

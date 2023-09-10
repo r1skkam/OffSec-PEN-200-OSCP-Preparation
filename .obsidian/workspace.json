@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Password Cracking/hashing.md",
+                "file": "_AD_DC/AD & DC links.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sudo",
+                "query": "nikto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password Cracking/hashing.md",
+                "file": "_AD_DC/AD & DC links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Password Cracking/hashing.md",
+                "file": "_AD_DC/AD & DC links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Password Cracking/hashing.md"
+                "file": "_AD_DC/AD & DC links.md"
               }
             }
           }
@@ -161,17 +161,17 @@
   },
   "active": "834e15ce08766bbe",
   "lastOpenFiles": [
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+    "Password Cracking/hashing.md",
     "Password Cracking/hashlib_sha1.py",
     "Password Cracking/hashlib_sha256.py",
     "Password Cracking/hashlib_md5.py",
     "Password Cracking/md5_decode.py",
     "Password Cracking/md5_encode.py",
     "Useful-Scripts/node.md",
-    "Password Cracking/hashing.md",
     "Useful-Scripts/ruby.md",
     "Useful Commands/sudo.md",
     "Useful-Scripts/python.md",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Useful Commands/Useful Commands.md",
     "Database/SQLite3.md",
     "Default Ports and Protocols/Default Ports and Protocols.md",
@@ -199,7 +199,6 @@
     "Password Cracking/Pasted",
     "Database",
     "Password Cracking/hashcat.md",
-    "Password Cracking",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
