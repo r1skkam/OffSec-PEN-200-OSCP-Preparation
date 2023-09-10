@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Commands/sudo.md",
+                "file": "Useful-Scripts/node.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Commands/sudo.md",
+                "file": "Useful-Scripts/node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Commands/sudo.md",
+                "file": "Useful-Scripts/node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Commands/sudo.md"
+                "file": "Useful-Scripts/node.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "834e15ce08766bbe",
   "lastOpenFiles": [
+    "Useful-Scripts/ruby.md",
+    "Useful-Scripts/node.md",
+    "Useful Commands/sudo.md",
+    "Useful-Scripts/python.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Useful Commands/Useful Commands.md",
-    "Useful Commands/sudo.md",
     "Database/SQLite3.md",
     "Default Ports and Protocols/Default Ports and Protocols.md",
     "Scanning/nmap.md",
@@ -203,9 +206,6 @@
     "Privilege Escalation (Linux)",
     "Writing the Report/Writing the Report.md",
     "Default Ports and Protocols/Pasted",
-    "Default Ports and Protocols",
-    "Proof/Proof.md",
-    "_Standalone_Boxes/192.168.1.73/nmap.md",
-    "README.md"
+    "Default Ports and Protocols"
   ]
 }
