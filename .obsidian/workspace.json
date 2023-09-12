@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_AD_DC/AD & DC links.md",
+                "file": "Useful-Scripts/python.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_AD_DC/AD & DC links.md",
+                "file": "Useful-Scripts/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_AD_DC/AD & DC links.md",
+                "file": "Useful-Scripts/python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_AD_DC/AD & DC links.md"
+                "file": "Useful-Scripts/python.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "834e15ce08766bbe",
   "lastOpenFiles": [
+    "Useful-Scripts/Useful Scripts.md",
+    "_AD_DC/AD & DC links.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Password Cracking/hashing.md",
     "Password Cracking/hashlib_sha1.py",
@@ -180,7 +182,6 @@
     "Scanning/RustScan.md",
     "Tools installed/Tools installed.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
-    "_AD_DC/AD & DC links.md",
     "Scanning",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
     "_AD_DC/Active Directory & Domain Controller.md",
@@ -204,7 +205,6 @@
     "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
     "Useful Commands/Pivoting Commands.md",
     "Useful Commands/AD Commands.md",
-    "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
-    "Useful-Scripts/Useful Scripts.md"
+    "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md"
   ]
 }
