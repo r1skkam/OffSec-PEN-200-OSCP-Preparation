@@ -1,6 +1,6 @@
 import urllib.parse
 
-url = "https://example.com/some path with spaces"
+url = ";#"
 
 # Encode the URL
 encoded_url = urllib.parse.quote(url)
