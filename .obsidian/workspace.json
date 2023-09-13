@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Bug Codes/ruby.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Bug Codes/ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Bug Codes/ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Codes/php.md"
+                "file": "Bug Codes/ruby.md"
               }
             }
           },
@@ -183,7 +183,9 @@
   },
   "active": "b07d92f84528160c",
   "lastOpenFiles": [
+    "Bug Codes/eval.rb",
     "Bug Codes/php.md",
+    "Bug Codes/ruby.md",
     "Bug Codes",
     "Useful-Scripts/Useful Scripts.md",
     "_AD_DC/AD & DC links.md",
@@ -226,8 +228,6 @@
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
-    "Useful Commands/Pivoting Commands.md",
-    "Useful Commands/AD Commands.md",
-    "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md"
+    "Useful Commands/Pivoting Commands.md"
   ]
 }

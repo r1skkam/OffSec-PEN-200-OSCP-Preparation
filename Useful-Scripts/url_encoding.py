@@ -1,6 +1,6 @@
 import urllib.parse
 
-url = ";#"
+url = "+"
 
 # Encode the URL
 encoded_url = urllib.parse.quote(url)
