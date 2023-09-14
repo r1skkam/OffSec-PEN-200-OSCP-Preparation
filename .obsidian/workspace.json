@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ed5c74835bf5a77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "834e15ce08766bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful-Scripts/python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b07d92f84528160c",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,14 +158,15 @@
   },
   "active": "b07d92f84528160c",
   "lastOpenFiles": [
-    "Bug Codes/php.md",
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+    "Useful-Scripts/python.md",
     "Bug Codes/python.md",
+    "Bug Codes/php.md",
     "Bug Codes/ruby.md",
     "Bug Codes/eval.rb",
     "Bug Codes",
     "Useful-Scripts/Useful Scripts.md",
     "_AD_DC/AD & DC links.md",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Password Cracking/hashing.md",
     "Password Cracking/hashlib_sha1.py",
     "Password Cracking/hashlib_sha256.py",
@@ -200,7 +176,6 @@
     "Useful-Scripts/node.md",
     "Useful-Scripts/ruby.md",
     "Useful Commands/sudo.md",
-    "Useful-Scripts/python.md",
     "Useful Commands/Useful Commands.md",
     "Database/SQLite3.md",
     "Default Ports and Protocols/Default Ports and Protocols.md",
