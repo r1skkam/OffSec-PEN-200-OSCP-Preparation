@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Bug Codes/python.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Bug Codes/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Bug Codes/python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Codes/php.md"
+                "file": "Bug Codes/python.md"
               }
             }
           },
@@ -183,9 +183,10 @@
   },
   "active": "b07d92f84528160c",
   "lastOpenFiles": [
+    "Bug Codes/php.md",
+    "Bug Codes/python.md",
     "Bug Codes/ruby.md",
     "Bug Codes/eval.rb",
-    "Bug Codes/php.md",
     "Bug Codes",
     "Useful-Scripts/Useful Scripts.md",
     "_AD_DC/AD & DC links.md",
