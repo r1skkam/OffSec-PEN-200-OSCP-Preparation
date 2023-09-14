@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Codes/python.md",
+                "file": "Bug Codes/php.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56c4c73e7cc41556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Codes/python.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Codes/python.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Codes/python.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,12 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b07d92f84528160c",
+  "active": "56c4c73e7cc41556",
   "lastOpenFiles": [
+    "Bug Codes/php.md",
+    "conflict-files-obsidian-git.md",
+    "Bug Codes/python.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Useful-Scripts/python.md",
-    "Bug Codes/python.md",
-    "Bug Codes/php.md",
     "Bug Codes/ruby.md",
     "Bug Codes/eval.rb",
     "Bug Codes",
@@ -202,7 +216,6 @@
     "Password Cracking/hashcat.md",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
-    "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
-    "Useful Commands/Pivoting Commands.md"
+    "Privilege Escalation (Linux)/Linux Priv-Esc Links.md"
   ]
 }
