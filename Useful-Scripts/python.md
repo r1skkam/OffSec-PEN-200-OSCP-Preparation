@@ -48,3 +48,6 @@ encoded_url = urllib.parse.quote(url)
 print(encoded_url)
 ```
 
+![image](https://github.com/r1skkam/OffSec-PEN-200-OSCP-Preparation/assets/58542375/335922b9-692c-406c-a8d4-cc1fa9c24161)
+
+
