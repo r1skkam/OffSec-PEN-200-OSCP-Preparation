@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Bug Codes/python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Bug Codes/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Bug Codes/python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Codes/php.md"
+                "file": "Bug Codes/python.md"
               }
             }
           },
@@ -156,13 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b07d92f84528160c",
+  "active": "886506d4563cb180",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Bug Codes/php.md",
-    "Bug Codes/python.md",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+    "Useful-Scripts/b64decode.py",
+    "Useful-Scripts/b64encode.py",
+    "Useful-Scripts/popen_read.py",
     "Useful-Scripts/python.md",
+    "Useful-Scripts/import_os_system.py",
+    "Bug Codes/python.md",
+    "Bug Codes/php.md",
+    "conflict-files-obsidian-git.md",
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Bug Codes/ruby.md",
     "Bug Codes/eval.rb",
     "Bug Codes",
@@ -185,16 +189,13 @@
     "Scanning/RustScan.md",
     "Tools installed/Tools installed.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
-    "Scanning",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
     "_AD_DC/Active Directory & Domain Controller.md",
     "_AD_DC/Pasted/Pasted image 20230906222705.png",
-    "_AD_DC/Pasted",
     "Database/Pasted/Pasted image 20230906173537.png",
     "Database/Pasted/Pasted image 20230906172856.png",
     "Database/mysql.md",
     "Database/Pasted/Pasted image 20230906083443.png",
-    "Database/Pasted",
     "Password Cracking/john.md",
     "Password Cracking/Pasted/Pasted image 20230906080549.png",
     "Password Cracking/Pasted/Pasted image 20230906080118.png",
@@ -202,7 +203,6 @@
     "Password Cracking/Pasted/Pasted image 20230905085607.png",
     "Password Cracking/hashcat.md",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
-    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
-    "Privilege Escalation (Linux)/Linux Priv-Esc Links.md"
+    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md"
   ]
 }
