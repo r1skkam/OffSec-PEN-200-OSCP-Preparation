@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8b8c892b1afb02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful-Scripts/bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Codes/python.md",
+                "file": "Useful-Scripts/bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Codes/python.md",
+                "file": "Useful-Scripts/bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Codes/python.md"
+                "file": "Useful-Scripts/bash.md"
               }
             }
           },
@@ -156,16 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "886506d4563cb180",
+  "active": "b8b8c892b1afb02e",
   "lastOpenFiles": [
+    "Bug Codes/perl.md",
+    "Useful-Scripts/bash.md",
+    "conflict-files-obsidian-git.md",
+    "Bug Codes/python.md",
     "Useful-Scripts/b64decode.py",
     "Useful-Scripts/b64encode.py",
     "Useful-Scripts/popen_read.py",
     "Useful-Scripts/python.md",
     "Useful-Scripts/import_os_system.py",
-    "Bug Codes/python.md",
     "Bug Codes/php.md",
-    "conflict-files-obsidian-git.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Bug Codes/ruby.md",
     "Bug Codes/eval.rb",
@@ -177,7 +192,6 @@
     "Password Cracking/hashlib_sha256.py",
     "Password Cracking/hashlib_md5.py",
     "Password Cracking/md5_decode.py",
-    "Password Cracking/md5_encode.py",
     "Useful-Scripts/node.md",
     "Useful-Scripts/ruby.md",
     "Useful Commands/sudo.md",
@@ -202,7 +216,6 @@
     "Password Cracking/Pasted/Pasted image 20230905090506.png",
     "Password Cracking/Pasted/Pasted image 20230905085607.png",
     "Password Cracking/hashcat.md",
-    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
-    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md"
+    "Privilege Escalation (Windows)/Windows Privilege Escalation.md"
   ]
 }
