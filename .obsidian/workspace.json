@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c6d51edd8a03806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pivoting/Pivoting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful-Scripts/bash.md",
+                "file": "Pivoting/Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful-Scripts/bash.md",
+                "file": "Pivoting/Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful-Scripts/bash.md"
+                "file": "Pivoting/Pivoting.md"
               }
             }
           },
@@ -169,11 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8b8c892b1afb02e",
+  "active": "8c6d51edd8a03806",
   "lastOpenFiles": [
-    "Bug Codes/perl.md",
-    "Useful-Scripts/bash.md",
+    "Useful Commands/Useful Commands.md",
+    "Pivoting/Pivoting.md",
     "conflict-files-obsidian-git.md",
+    "Useful-Scripts/bash.md",
+    "Bug Codes/perl.md",
     "Bug Codes/python.md",
     "Useful-Scripts/b64decode.py",
     "Useful-Scripts/b64encode.py",
@@ -195,7 +209,6 @@
     "Useful-Scripts/node.md",
     "Useful-Scripts/ruby.md",
     "Useful Commands/sudo.md",
-    "Useful Commands/Useful Commands.md",
     "Database/SQLite3.md",
     "Default Ports and Protocols/Default Ports and Protocols.md",
     "Scanning/nmap.md",
@@ -215,7 +228,6 @@
     "Password Cracking/Pasted/Pasted image 20230906080118.png",
     "Password Cracking/Pasted/Pasted image 20230905090506.png",
     "Password Cracking/Pasted/Pasted image 20230905085607.png",
-    "Password Cracking/hashcat.md",
-    "Privilege Escalation (Windows)/Windows Privilege Escalation.md"
+    "Password Cracking/hashcat.md"
   ]
 }

