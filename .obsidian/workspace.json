@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "353afeb9261d0f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command Execution/php.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pivoting/Pivoting.md",
+                "file": "Command Execution/php.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pivoting/Pivoting.md",
+                "file": "Command Execution/php.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pivoting/Pivoting.md"
+                "file": "Command Execution/php.md"
               }
             }
           },
@@ -181,8 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c6d51edd8a03806",
+  "active": "886506d4563cb180",
   "lastOpenFiles": [
+    "Command Execution",
+    "Bug Codes/php.md",
+    "Command Execution/php.md",
     "Useful Commands/Useful Commands.md",
     "Pivoting/Pivoting.md",
     "conflict-files-obsidian-git.md",
@@ -194,7 +209,6 @@
     "Useful-Scripts/popen_read.py",
     "Useful-Scripts/python.md",
     "Useful-Scripts/import_os_system.py",
-    "Bug Codes/php.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Bug Codes/ruby.md",
     "Bug Codes/eval.rb",
@@ -223,11 +237,9 @@
     "Database/Pasted/Pasted image 20230906172856.png",
     "Database/mysql.md",
     "Database/Pasted/Pasted image 20230906083443.png",
-    "Password Cracking/john.md",
     "Password Cracking/Pasted/Pasted image 20230906080549.png",
     "Password Cracking/Pasted/Pasted image 20230906080118.png",
     "Password Cracking/Pasted/Pasted image 20230905090506.png",
-    "Password Cracking/Pasted/Pasted image 20230905085607.png",
-    "Password Cracking/hashcat.md"
+    "Password Cracking/Pasted/Pasted image 20230905085607.png"
   ]
 }
