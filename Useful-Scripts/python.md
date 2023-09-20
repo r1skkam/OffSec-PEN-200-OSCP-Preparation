@@ -51,3 +51,26 @@ print(encoded_url)
 ![image](https://github.com/r1skkam/OffSec-PEN-200-OSCP-Preparation/assets/58542375/335922b9-692c-406c-a8d4-cc1fa9c24161)
 
 
+```
+import string
+string.ascii_lowercase
+string.ascii_uppercase
+string.digits
+```
+
+```
+C:\Users\kamkh>python
+Python 3.11.4 (tags/v3.11.4:d2340ef, Jun  7 2023, 05:45:37) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import string
+>>> string.ascii_lowercase
+'abcdefghijklmnopqrstuvwxyz'
+>>> string.ascii_uppercase
+'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+>>> string.digits
+'0123456789'
+>>>
+```
+
+
+

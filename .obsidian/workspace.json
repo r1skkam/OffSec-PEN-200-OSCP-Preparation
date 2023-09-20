@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Useful-Scripts/python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Useful-Scripts/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bug Codes/php.md",
+                "file": "Useful-Scripts/python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bug Codes/php.md"
+                "file": "Useful-Scripts/python.md"
               }
             }
           },
@@ -158,13 +158,17 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Database/mongo_02.py",
     "Database/MongoDB.md",
+    "Database/mongo_02.rb",
+    "Encode Decode/URL Encoding and Decoding.md",
+    "Encode Decode",
+    "Bug Codes/php.md",
     "LFI RFI/Local & Remote File Inclusion.md",
     "Command Execution/php.md",
     "Bug Codes/python.md",
     "LFI RFI",
     "Command Execution",
-    "Bug Codes/php.md",
     "Useful Commands/Useful Commands.md",
     "Pivoting/Pivoting.md",
     "conflict-files-obsidian-git.md",
@@ -178,12 +182,9 @@
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Bug Codes/ruby.md",
     "Bug Codes/eval.rb",
-    "Bug Codes",
     "Useful-Scripts/Useful Scripts.md",
     "_AD_DC/AD & DC links.md",
     "Password Cracking/hashing.md",
-    "Password Cracking/hashlib_sha1.py",
-    "Password Cracking/hashlib_sha256.py",
     "Useful-Scripts/node.md",
     "Useful-Scripts/ruby.md",
     "Useful Commands/sudo.md",
@@ -192,10 +193,8 @@
     "Scanning/nmap.md",
     "Database/postgres.md",
     "Scanning/RustScan.md",
-    "Tools installed/Tools installed.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
-    "_AD_DC/Active Directory & Domain Controller.md",
     "_AD_DC/Pasted/Pasted image 20230906222705.png",
     "Database/Pasted/Pasted image 20230906173537.png",
     "Database/Pasted/Pasted image 20230906172856.png",
