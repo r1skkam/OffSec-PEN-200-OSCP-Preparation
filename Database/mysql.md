@@ -26,3 +26,12 @@ select load_file('/var/lib/mysql-files/key.txt');
 ```
 
 ![[Pasted image 20230906083443.png]]
+
+```
+' 1 or 1=1 --'
+```
+
+```
+' 1 or 1=1 #'
+```
+

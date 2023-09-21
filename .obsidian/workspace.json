@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful-Scripts/python.md",
+                "file": "Database/mysql.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful-Scripts/python.md",
+                "file": "Database/mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful-Scripts/python.md",
+                "file": "Database/mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful-Scripts/python.md"
+                "file": "Database/mysql.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Useful-Scripts/python.md",
     "Database/mongo_02.py",
     "Database/MongoDB.md",
     "Database/mongo_02.rb",
@@ -177,7 +178,6 @@
     "Useful-Scripts/b64decode.py",
     "Useful-Scripts/b64encode.py",
     "Useful-Scripts/popen_read.py",
-    "Useful-Scripts/python.md",
     "Useful-Scripts/import_os_system.py",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Bug Codes/ruby.md",
