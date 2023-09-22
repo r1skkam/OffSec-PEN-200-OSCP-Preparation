@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encode Decode/URL Encoding and Decoding.md",
+                "file": "Useful-Scripts/python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encode Decode/URL Encoding and Decoding.md",
+                "file": "Useful-Scripts/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encode Decode/URL Encoding and Decoding.md",
+                "file": "Useful-Scripts/python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encode Decode/URL Encoding and Decoding.md"
+                "file": "Useful-Scripts/python.md"
               }
             }
           },
@@ -158,7 +158,12 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Useful-Scripts/simple-php-web-shell.php3",
+    "Useful-Scripts/simple-php-web-shell - Copy.php",
+    "Useful-Scripts/simple-php-web-shell.php",
+    "Useful-Scripts/php.md",
     "Database/mysql.md",
+    "Encode Decode/URL Encoding and Decoding.md",
     "README.md",
     "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
@@ -167,7 +172,6 @@
     "Database/mongo_02.py",
     "Database/MongoDB.md",
     "Database/mongo_02.rb",
-    "Encode Decode/URL Encoding and Decoding.md",
     "Encode Decode",
     "Bug Codes/php.md",
     "LFI RFI/Local & Remote File Inclusion.md",
@@ -183,17 +187,13 @@
     "Useful-Scripts/b64decode.py",
     "Useful-Scripts/b64encode.py",
     "Useful-Scripts/popen_read.py",
-    "Useful-Scripts/import_os_system.py",
     "Bug Codes/ruby.md",
-    "Bug Codes/eval.rb",
     "Useful-Scripts/Useful Scripts.md",
     "_AD_DC/AD & DC links.md",
     "Password Cracking/hashing.md",
     "Useful-Scripts/node.md",
     "Useful-Scripts/ruby.md",
     "Useful Commands/sudo.md",
-    "Database/SQLite3.md",
-    "Default Ports and Protocols/Default Ports and Protocols.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
     "_AD_DC/Pasted/Pasted image 20230906222705.png",

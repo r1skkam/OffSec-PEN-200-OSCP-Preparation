@@ -72,5 +72,12 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
+```
+{{''.__class__.mro()[1].__subclasses__()}}
+```
+
+[subprocess — Subprocess management &#8212; Python 3.11.5 documentation](https://docs.python.org/3/library/subprocess.html) 
+
+
 
 

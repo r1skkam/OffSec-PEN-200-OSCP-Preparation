@@ -43,3 +43,11 @@ SELECT * FROM users WHERE username = 'input' LIMIT 1;
 SELECT * FROM users WHERE username = '' OR 1=1; --' LIMIT 1;
 ```
 
+```
+%bf%27
+```
+
+```
+%bf%27 or 1=1 --
+```
+
