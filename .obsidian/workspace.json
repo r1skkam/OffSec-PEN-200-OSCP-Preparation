@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md"
               }
             }
           },
@@ -158,6 +158,11 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Web HTTP HTTPS/Pasted image 20230923182239.png",
+    "Useful-Scripts/Useful Scripts.md",
+    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "Web HTTP HTTPS",
+    "README.md",
     "Useful Commands/Useful Commands.md",
     "Useful-Scripts/string_to_ascii.py",
     "Database/mysql.md",
@@ -167,7 +172,6 @@
     "Useful-Scripts/simple-php-web-shell.php",
     "Useful-Scripts/php.md",
     "Encode Decode/URL Encoding and Decoding.md",
-    "README.md",
     "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Proof/Proof.md",
@@ -185,14 +189,11 @@
     "conflict-files-obsidian-git.md",
     "Useful-Scripts/bash.md",
     "Bug Codes/perl.md",
-    "Useful-Scripts/b64decode.py",
     "Bug Codes/ruby.md",
-    "Useful-Scripts/Useful Scripts.md",
     "_AD_DC/AD & DC links.md",
     "Password Cracking/hashing.md",
     "Useful-Scripts/node.md",
     "Useful-Scripts/ruby.md",
-    "Useful Commands/sudo.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
     "_AD_DC/Pasted/Pasted image 20230906222705.png",

