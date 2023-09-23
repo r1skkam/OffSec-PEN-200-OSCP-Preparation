@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Commands/Useful Commands.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Commands/Useful Commands.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Commands/Useful Commands.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Commands/Useful Commands.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Useful Commands/Useful Commands.md",
     "Useful-Scripts/string_to_ascii.py",
     "Database/mysql.md",
     "Useful-Scripts/python.md",
@@ -180,13 +181,11 @@
     "Bug Codes/python.md",
     "LFI RFI",
     "Command Execution",
-    "Useful Commands/Useful Commands.md",
     "Pivoting/Pivoting.md",
     "conflict-files-obsidian-git.md",
     "Useful-Scripts/bash.md",
     "Bug Codes/perl.md",
     "Useful-Scripts/b64decode.py",
-    "Useful-Scripts/b64encode.py",
     "Bug Codes/ruby.md",
     "Useful-Scripts/Useful Scripts.md",
     "_AD_DC/AD & DC links.md",
