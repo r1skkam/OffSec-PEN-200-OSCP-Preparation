@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+                "file": "Pivoting/Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nikto",
+                "query": "http.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+                "file": "Pivoting/Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+                "file": "Pivoting/Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md"
+                "file": "Pivoting/Pivoting.md"
               }
             }
           },
@@ -158,9 +158,13 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+    "Default Ports and Protocols/Default Ports and Protocols.md",
+    "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
+    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
+    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Web HTTP HTTPS/Pasted image 20230923182239.png",
     "Useful-Scripts/Useful Scripts.md",
-    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Web HTTP HTTPS",
     "README.md",
     "Useful Commands/Useful Commands.md",
@@ -172,7 +176,6 @@
     "Useful-Scripts/simple-php-web-shell.php",
     "Useful-Scripts/php.md",
     "Encode Decode/URL Encoding and Decoding.md",
-    "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Proof/Proof.md",
     "Database/mongo_02.py",
@@ -192,8 +195,6 @@
     "Bug Codes/ruby.md",
     "_AD_DC/AD & DC links.md",
     "Password Cracking/hashing.md",
-    "Useful-Scripts/node.md",
-    "Useful-Scripts/ruby.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
     "_AD_DC/Pasted/Pasted image 20230906222705.png",
@@ -202,7 +203,6 @@
     "Database/Pasted/Pasted image 20230906083443.png",
     "Password Cracking/Pasted/Pasted image 20230906080549.png",
     "Password Cracking/Pasted/Pasted image 20230906080118.png",
-    "Password Cracking/Pasted/Pasted image 20230905090506.png",
-    "Password Cracking/Pasted/Pasted image 20230905085607.png"
+    "Password Cracking/Pasted/Pasted image 20230905090506.png"
   ]
 }

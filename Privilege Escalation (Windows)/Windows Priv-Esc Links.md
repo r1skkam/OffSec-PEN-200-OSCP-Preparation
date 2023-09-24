@@ -8,3 +8,7 @@ https://github.com/SecWiki/windows-kernel-exploits
 
 https://www.youtube.com/playlist?list=PLjG9EfEtwbvIrGFTx4XctK8IxkUJkAEqP
 
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+https://the.earth.li/~sgtatham/putty/latest/w32/plink.exe
+

