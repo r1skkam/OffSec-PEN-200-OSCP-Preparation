@@ -40,3 +40,8 @@ curl -v url -X POST --data ''
 curl -v 'url?parameter1=value1&parameter2=value2'
 ```
 
+```
+curl -v url -X POST --data 'parameter1=value1&parameter2=value2'
+```
+
+
