@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pivoting/Pivoting.md",
+                "file": "Useful Commands/curl.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "http.",
+                "query": "curl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pivoting/Pivoting.md",
+                "file": "Useful Commands/curl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pivoting/Pivoting.md",
+                "file": "Useful Commands/curl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pivoting/Pivoting.md"
+                "file": "Useful Commands/curl.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Pivoting/Pivoting.md",
+    "Useful Commands/curl.md",
     "Pivoting/Pasted image 20230925171812.png",
     "Pivoting/Pasted image 20230925171742.png",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
@@ -190,7 +192,6 @@
     "Bug Codes/python.md",
     "LFI RFI",
     "Command Execution",
-    "Pivoting/Pivoting.md",
     "conflict-files-obsidian-git.md",
     "Useful-Scripts/bash.md",
     "Bug Codes/perl.md",
@@ -202,7 +203,6 @@
     "Database/Pasted/Pasted image 20230906173537.png",
     "Database/Pasted/Pasted image 20230906172856.png",
     "Database/Pasted/Pasted image 20230906083443.png",
-    "Password Cracking/Pasted/Pasted image 20230906080549.png",
-    "Password Cracking/Pasted/Pasted image 20230906080118.png"
+    "Password Cracking/Pasted/Pasted image 20230906080549.png"
   ]
 }
