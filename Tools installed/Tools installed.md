@@ -64,4 +64,4 @@ ARGS:
 
 ```
 
-nikto needed to install (10092023Sun)
+nikto needed to install (10092023Sun), now already installed.

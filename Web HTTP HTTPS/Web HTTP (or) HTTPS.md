@@ -15,3 +15,23 @@ Connection: close\r\n\r\n
 \n (new line or 0x0a)
 ```
 
+```
+nikto -h url
+```
+
+dirbuster
+gobuster
+feroxbuster
+
+```
+searchsploit mod ssl 2
+```
+
+```
+dirb url
+```
+
+```
+ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u url/FUZZ
+```
+

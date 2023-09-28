@@ -11,4 +11,5 @@
 | 7 | 445 | SMB | Server Message Protocol |
 | 8 | 88, 464, 543, 544, 749, 751 | Kerberos | "kpasswd" service (Authentication Protocol), KDC (Kerberos key distribution center) server |
 | 9 | 5985 (HTTP), 5986 (HTTPS) 47001 | winrm | Microsoft Windows Remote Management |
-| 10 | 
+| 10 | 22 | SSH | Secure Shell Protocol |
+

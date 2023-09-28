@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Commands/curl.md",
+                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curl",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Commands/curl.md",
+                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Commands/curl.md",
+                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Commands/curl.md"
+                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md"
               }
             }
           },
@@ -158,19 +158,29 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
-    "Pivoting/Pivoting.md",
+    "Password Cracking/hashcat.md",
+    "FTP/FTP.md",
+    "Scanning/nmap.md",
+    "FTP",
+    "Password Cracking/hydra.md",
+    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "SSH/SSH Secure Shell Protocol.md",
+    "Default Ports and Protocols/Default Ports and Protocols.md",
+    "SSH",
+    "Tools installed/Tools installed.md",
+    "SMB Server Message Protocol",
+    "README.md",
     "Useful Commands/curl.md",
+    "Pivoting/Pivoting.md",
     "Pivoting/Pasted image 20230925171812.png",
     "Pivoting/Pasted image 20230925171742.png",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
-    "Default Ports and Protocols/Default Ports and Protocols.md",
     "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
-    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Web HTTP HTTPS/Pasted image 20230923182239.png",
     "Useful-Scripts/Useful Scripts.md",
     "Web HTTP HTTPS",
-    "README.md",
     "Useful Commands/Useful Commands.md",
     "Useful-Scripts/string_to_ascii.py",
     "Database/mysql.md",
@@ -185,18 +195,8 @@
     "Database/mongo_02.py",
     "Database/MongoDB.md",
     "Database/mongo_02.rb",
-    "Encode Decode",
     "Bug Codes/php.md",
     "LFI RFI/Local & Remote File Inclusion.md",
-    "Command Execution/php.md",
-    "Bug Codes/python.md",
-    "LFI RFI",
-    "Command Execution",
-    "conflict-files-obsidian-git.md",
-    "Useful-Scripts/bash.md",
-    "Bug Codes/perl.md",
-    "Bug Codes/ruby.md",
-    "_AD_DC/AD & DC links.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
     "_AD_DC/Pasted/Pasted image 20230906222705.png",
