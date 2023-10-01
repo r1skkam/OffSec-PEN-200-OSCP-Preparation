@@ -35,3 +35,19 @@ dirb url
 ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u url/FUZZ
 ```
 
+```
+gobuster dir -w /usr/share/wordlists/dirb/big.txt --url http://academy.htb/ -x .php, .txt -o gobuster-result.txt
+```
+
+```
+curl -v 'url' -X POST --data '<key><value>>please</value></key>\n' -H 'Content-Type:application/xml'
+```
+
+```
+curl -v 'url' -X POST --data '{"key": "please"}' -H 'Content-Type:application/json' --trace-ascii -
+```
+
+```
+curl -v 'url' -X POST --data 'key: please' -H 'Content-Type:application/yaml' --trace-ascii -
+```
+

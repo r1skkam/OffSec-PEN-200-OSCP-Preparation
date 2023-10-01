@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydra",
+                "query": "-H",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "353afeb9261d0f74",
+  "active": "5d672a6d073d79d4",
   "lastOpenFiles": [
     "Password Cracking/hashcat.md",
     "FTP/FTP.md",
