@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+                "file": "PowerShell/PowerShell.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+                "file": "PowerShell/PowerShell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+                "file": "PowerShell/PowerShell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web HTTP HTTPS/Web HTTP (or) HTTPS.md"
+                "file": "PowerShell/PowerShell.md"
               }
             }
           },
@@ -157,16 +156,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d672a6d073d79d4",
+  "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "SSH/SSH Secure Shell Protocol.md",
+    "SQLi/SQL injection.md",
+    "PowerShell/PowerShell.md",
+    "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
+    "PowerShell",
+    "SQLi/Pasted image 20231003144723.png",
+    "SQLi/Pasted image 20231003144626.png",
+    "SQLi/Pasted image 20231003144222.png",
+    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "SQLi",
     "Password Cracking/hashcat.md",
     "FTP/FTP.md",
     "Scanning/nmap.md",
     "FTP",
     "Password Cracking/hydra.md",
-    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "SMB Server Message Protocol/SMB Server Message Protocol.md",
-    "SSH/SSH Secure Shell Protocol.md",
     "Default Ports and Protocols/Default Ports and Protocols.md",
     "SSH",
     "Tools installed/Tools installed.md",
@@ -193,17 +200,9 @@
     "Encode Decode/URL Encoding and Decoding.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Proof/Proof.md",
-    "Database/mongo_02.py",
-    "Database/MongoDB.md",
-    "Database/mongo_02.rb",
-    "Bug Codes/php.md",
-    "LFI RFI/Local & Remote File Inclusion.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
     "_AD_DC/Pasted/Pasted image 20230906222705.png",
-    "Database/Pasted/Pasted image 20230906173537.png",
-    "Database/Pasted/Pasted image 20230906172856.png",
-    "Database/Pasted/Pasted image 20230906083443.png",
-    "Password Cracking/Pasted/Pasted image 20230906080549.png"
+    "Database/Pasted/Pasted image 20230906173537.png"
   ]
 }
