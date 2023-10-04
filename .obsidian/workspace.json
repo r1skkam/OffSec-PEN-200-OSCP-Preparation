@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WinRM 5985 5986/Windows Remote Management.md",
+                "file": "_AD_DC/AD & DC links.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WinRM 5985 5986/Windows Remote Management.md",
+                "file": "_AD_DC/AD & DC links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WinRM 5985 5986/Windows Remote Management.md",
+                "file": "_AD_DC/AD & DC links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WinRM 5985 5986/Windows Remote Management.md"
+                "file": "_AD_DC/AD & DC links.md"
               }
             }
           },
@@ -157,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d672a6d073d79d4",
+  "active": "353afeb9261d0f74",
   "lastOpenFiles": [
-    "SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "_AD_DC/Active Directory & Domain Controller.md",
     "WinRM 5985 5986/Windows Remote Management.md",
+    "SMB Server Message Protocol/SMB Server Message Protocol.md",
     "WinRM 5985 5986",
     "crackmapexec/crackmapexec.md",
     "Pivoting/Pivoting.md",
@@ -200,7 +200,6 @@
     "Useful-Scripts/python.md",
     "Useful-Scripts/simple-php-web-shell.php3",
     "Useful-Scripts/php.md",
-    "Encode Decode/URL Encoding and Decoding.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
     "_AD_DC/Pasted/Pasted image 20230906222705.png",

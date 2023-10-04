@@ -13,3 +13,8 @@ https://orange-cyberdefense.github.io/ocd-mindmaps/
 https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg
 
 https://github.com/Orange-Cyberdefense/ocd-mindmaps
+
+https://github.com/fortra/impacket
+
+https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/asreproast
+

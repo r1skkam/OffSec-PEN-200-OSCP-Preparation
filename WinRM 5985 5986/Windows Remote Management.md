@@ -23,3 +23,7 @@ crackmapexec winrm <IP> -d <Domain Name> -u <username> -p <password> -x "whoami"
 crackmapexec winrm <IP> -d <Domain Name> -u <username> -H <HASH> -X '$PSVersionTable'
 ```
 
+```
+evil-winrm -u Administrator -p 'EverybodyWantsToWorkAtP.O.O.'  -i <IP>/<Domain>
+```
+
