@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_AD_DC/AD & DC links.md",
+                "file": "_AD_DC/AD Enumeration Methodology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_AD_DC/AD & DC links.md",
+                "file": "_AD_DC/AD Enumeration Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_AD_DC/AD & DC links.md",
+                "file": "_AD_DC/AD Enumeration Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_AD_DC/AD & DC links.md"
+                "file": "_AD_DC/AD Enumeration Methodology.md"
               }
             }
           },
@@ -158,26 +158,38 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "_AD_DC/Pasted image 20231005205250.png",
     "_AD_DC/Active Directory & Domain Controller.md",
+    "_AD_DC/AD Enumeration Methodology.md",
+    "FTP/FTP.md",
+    "PowerShell/PowerShell.md",
+    "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
+    "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
+    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+    "SQLi/SQL injection.md",
+    "Proof/Proof.md",
+    "Pivoting/Pasted image 20230925171812.png",
+    "Pivoting/Pasted image 20230925171742.png",
+    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "Pivoting/Pivoting.md",
+    "crackmapexec/crackmapexec.md",
+    "_Standalone_Boxes/192.168.1.73/nmap.md",
+    "_AD_DC/AD & DC links.md",
     "WinRM 5985 5986/Windows Remote Management.md",
     "SMB Server Message Protocol/SMB Server Message Protocol.md",
     "WinRM 5985 5986",
-    "crackmapexec/crackmapexec.md",
-    "Pivoting/Pivoting.md",
     "crackmapexec",
     "Default Ports and Protocols/Default Ports and Protocols.md",
-    "PowerShell/PowerShell.md",
     "SSH/SSH Secure Shell Protocol.md",
-    "SQLi/SQL injection.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "PowerShell",
     "SQLi/Pasted image 20231003144723.png",
     "SQLi/Pasted image 20231003144626.png",
     "SQLi/Pasted image 20231003144222.png",
-    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "SQLi",
     "Password Cracking/hashcat.md",
-    "FTP/FTP.md",
     "Scanning/nmap.md",
     "FTP",
     "Password Cracking/hydra.md",
@@ -185,24 +197,12 @@
     "Tools installed/Tools installed.md",
     "SMB Server Message Protocol",
     "README.md",
-    "Useful Commands/curl.md",
-    "Pivoting/Pasted image 20230925171812.png",
-    "Pivoting/Pasted image 20230925171742.png",
-    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
-    "Privilege Escalation (Linux)/Linux Priv-Esc Links.md",
-    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Web HTTP HTTPS/Pasted image 20230923182239.png",
-    "Useful-Scripts/Useful Scripts.md",
     "Web HTTP HTTPS",
-    "Useful Commands/Useful Commands.md",
     "Useful-Scripts/string_to_ascii.py",
-    "Database/mysql.md",
-    "Useful-Scripts/python.md",
     "Useful-Scripts/simple-php-web-shell.php3",
-    "Useful-Scripts/php.md",
     "Tools installed/Pasted/Pasted image 20230906235804.png",
     "_AD_DC/Pasted/Pasted image 20230906232335.png",
-    "_AD_DC/Pasted/Pasted image 20230906222705.png",
-    "Database/Pasted/Pasted image 20230906173537.png"
+    "_AD_DC/Pasted/Pasted image 20230906222705.png"
   ]
 }
