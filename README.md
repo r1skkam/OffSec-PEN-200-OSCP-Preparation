@@ -32,3 +32,18 @@ Extra Links:
 [https://lnkd.in/dW_29vyQ](https://lnkd.in/dW_29vyQ)  
 [https://lnkd.in/dV7SUxbx](https://lnkd.in/dV7SUxbx)  
 [https://lnkd.in/dKmvdTNj](https://lnkd.in/dKmvdTNj)  
+
+OSCP NOTES AD:  
+[https://lnkd.in/dw92ggbR](https://lnkd.in/dw92ggbR)  
+  
+OSCP Notes :  
+[https://lnkd.in/dcKZCmD8](https://lnkd.in/dcKZCmD8)  
+  
+OSWE Notes:  
+[https://lnkd.in/d77W5ZWj](https://lnkd.in/d77W5ZWj)  
+  
+OSEP Notes:  
+[https://lnkd.in/ddbhS99k](https://lnkd.in/ddbhS99k)  
+  
+OSED Notes:  
+[https://lnkd.in/dHn-nt9B](https://lnkd.in/dHn-nt9B)

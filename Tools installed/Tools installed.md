@@ -1,5 +1,18 @@
 ### 24082023Thu
 
+```
+dir C:\Tools
+```
+
+1. PSTools (directory)
+2. kerbrute_windows_amd64.exe
+3. mimikat.exe
+4. nc64.exe
+5. PowerView.ps1
+6. Rubeus.exe
+7. Sharphound.ps1
+8. Spray-Passwords.ps1
+
 https://www.kali.org/tools/chisel/
 
 ```

