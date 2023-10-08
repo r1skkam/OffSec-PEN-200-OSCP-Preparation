@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_AD_DC/ldapsearch.md",
+                "file": "Hashes/Hashes.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ldaps",
+                "query": "iden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_AD_DC/ldapsearch.md",
+                "file": "Hashes/Hashes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_AD_DC/ldapsearch.md",
+                "file": "Hashes/Hashes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_AD_DC/ldapsearch.md"
+                "file": "Hashes/Hashes.md"
               }
             }
           },
@@ -156,17 +157,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "353afeb9261d0f74",
+  "active": "5d672a6d073d79d4",
   "lastOpenFiles": [
+    "Password Cracking/hashcat.md",
+    "Hashes/Hashes.md",
+    "Tools installed/Tools installed.md",
+    "Hashes",
     "_AD_DC/thumbnail_pentest_ad_dark_2023_02.png",
-    "Useful Commands/Useful Commands.md",
+    "_AD_DC/pentest_ad_dark_2023_02.svg",
     "_AD_DC/ldapsearch.md",
+    "Useful Commands/Useful Commands.md",
     "crackmapexec/crackmapexec.md",
     "SMB Server Message Protocol/SMB Server Message Protocol.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "README.md",
     "_AD_DC/AD Enumeration Methodology.md",
-    "Tools installed/Tools installed.md",
     "_AD_DC/Active Directory & Domain Controller.md",
     "PowerShell/PowerShell.md",
     "_AD_DC/Pasted image 20231006211541.png",
@@ -197,12 +202,8 @@
     "SQLi/Pasted image 20231003144626.png",
     "SQLi/Pasted image 20231003144222.png",
     "SQLi",
-    "Password Cracking/hashcat.md",
     "FTP",
     "SSH",
-    "SMB Server Message Protocol",
-    "Web HTTP HTTPS/Pasted image 20230923182239.png",
-    "Web HTTP HTTPS",
-    "Tools installed/Pasted/Pasted image 20230906235804.png"
+    "SMB Server Message Protocol"
   ]
 }
