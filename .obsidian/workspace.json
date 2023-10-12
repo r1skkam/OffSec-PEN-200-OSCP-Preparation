@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/mysql.md",
+                "file": "Useful Commands/tee.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/mysql.md",
+                "file": "Useful Commands/tee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/mysql.md",
+                "file": "Useful Commands/tee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/mysql.md"
+                "file": "Useful Commands/tee.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Useful Commands/Pasted image 20231012123049.png",
+    "Database/mysql.md",
+    "Useful Commands/tee.md",
     "SQLi/SQL injection.md",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Privilege Escalation (Windows)/Pasted image 20231009033039.png",
@@ -194,8 +197,6 @@
     "Pivoting/Pasted image 20230925171812.png",
     "Pivoting/Pasted image 20230925171742.png",
     "Pivoting/Pivoting.md",
-    "_Standalone_Boxes/192.168.1.73/nmap.md",
-    "_AD_DC/AD & DC links.md",
     "WinRM 5985 5986",
     "crackmapexec",
     "PowerShell",
