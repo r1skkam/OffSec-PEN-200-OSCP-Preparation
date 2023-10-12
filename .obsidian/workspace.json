@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Commands/tee.md",
+                "file": "Enumeration/rpcclient.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "urlencode",
+                "query": "rpccli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Commands/tee.md",
+                "file": "Enumeration/rpcclient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Commands/tee.md",
+                "file": "Enumeration/rpcclient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Commands/tee.md"
+                "file": "Enumeration/rpcclient.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "Enumeration/rpcclient.md",
+    "Enumeration",
+    "Useful Commands/tee.md",
     "Useful Commands/Pasted image 20231012123049.png",
     "Database/mysql.md",
-    "Useful Commands/tee.md",
     "SQLi/SQL injection.md",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Privilege Escalation (Windows)/Pasted image 20231009033039.png",
@@ -179,7 +182,6 @@
     "_AD_DC/ldapsearch.md",
     "Useful Commands/Useful Commands.md",
     "crackmapexec/crackmapexec.md",
-    "SMB Server Message Protocol/SMB Server Message Protocol.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "README.md",
     "_AD_DC/AD Enumeration Methodology.md",
@@ -195,14 +197,12 @@
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "Pivoting/Pasted image 20230925171812.png",
-    "Pivoting/Pasted image 20230925171742.png",
     "Pivoting/Pivoting.md",
     "WinRM 5985 5986",
     "crackmapexec",
     "PowerShell",
     "SQLi",
     "FTP",
-    "SSH",
-    "SMB Server Message Protocol"
+    "SSH"
   ]
 }
