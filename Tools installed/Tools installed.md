@@ -78,3 +78,20 @@ ARGS:
 ```
 
 nikto needed to install (10092023Sun), now already installed.
+
+**dirsearch**
+
+https://github.com/maurosoria/dirsearch
+
+```
+sudo pip3 install dirsearch
+```
+
+![](Pasted%20image%2020231013162154.png)
+![](Pasted%20image%2020231013162240.png)
+
+```
+dirsearch [-u|--url] target [-e|--extensions] extensions [options]
+```
+
+
