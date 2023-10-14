@@ -26,3 +26,7 @@ poetry run cme ssh server/ip -u usernames.txt -p password.txt
 crackmapexec ssh server/ip -u usernames.txt -p password.txt --continue-on-success
 ```
 
+```
+crackmapexec smb server/ip -u usernames.txt -p passwords.txt --continue-on-success
+```
+
