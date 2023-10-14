@@ -94,4 +94,14 @@ sudo pip3 install dirsearch
 dirsearch [-u|--url] target [-e|--extensions] extensions [options]
 ```
 
+braa
+![](Pasted%20image%2020231013212443.png)
+
+**poetry**
+
+https://python-poetry.org/
+
+Poetry is a tool for **dependency management** and **packaging** in Python.
+
+![](Pasted%20image%2020231014193537.png)
 

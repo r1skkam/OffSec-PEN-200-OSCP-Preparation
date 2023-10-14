@@ -64,5 +64,16 @@ int main(void)
 }
 ```
 
+**Checking kernel/OS versions**
 
+```
+uname -a
+```
 
+```
+cat /etc/*release
+```
+
+```
+find / -user username 2>/dev/null | grep -v 'proc\|run\|sys'
+```
