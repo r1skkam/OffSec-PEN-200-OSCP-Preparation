@@ -12,3 +12,7 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 https://the.earth.li/~sgtatham/putty/latest/w32/plink.exe
 
+https://juggernaut-sec.com/seimpersonateprivilege/
+
+https://juggernaut-sec.com/category/windows-privilege-escalation/
+

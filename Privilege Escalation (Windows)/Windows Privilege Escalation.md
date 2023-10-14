@@ -155,3 +155,31 @@ int main ()
 ```
 x86_64-w64-mingw32-gcc adduser.c -o adduser.exe
 ```
+
+- **Privileges**
+    - Do we have SeShutdownPrivilege
+        - Could lead to service exploitation.
+    - Do we have *SeImpersonatePrivileges*
+        - What system are we running on *systeminfo*
+            - Can we use JuicyPotatoes, GodPotatos or PrintSpoofer.
+    - Do we have *SeBackupPrivilege*, SeRestorePrivilege
+        - Extract system and sam files to retrieve local hashes
+    - Do we just have *SeRestorePrivilege*
+        - Can we take over the administrator directory
+            - https://github.com/Hackplayers/PsCabesha-tools/blob/master/Privesc/Acl-FullControl.ps1
+        - Can we use SeRestoreAbuse.exe and achieve a reverse shell
+            - `.\SeRestoreAbuse.exe "cmd /c powershell.exe -Enc "`
+    - Do we have *SeLoadDriverPrivilege*
+        - Load a custom driver.
+            - Capcom
+    - Do we have *SeManageVolumePrivilege*
+        - Can we use SeManageVolumeAbuse.exe to add a custom DLL
+            - Copy a DLL file into the C:/Windows/System32/wbem location, this file should be called **tzres.dll**, if we run systeminfo it will trigger.
+
+
+## Unquoted Service Path
+
+```
+wmic service get name,displayname,startmode,pathname | findstr /i /v "C:\Windows\\" |findstr /i /v """
+```
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "file": "msfvenom/msfvenom.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "xfree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "file": "msfvenom/msfvenom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+                "file": "msfvenom/msfvenom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Linux)/Linux Privilege Escalation.md"
+                "file": "msfvenom/msfvenom.md"
               }
             }
           },
@@ -159,21 +158,25 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
+    "msfvenom/msfvenom.md",
+    "msfvenom",
+    "PowerShell/PowerShell.md",
+    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+    "_AD_DC/AD Enumeration Methodology.md",
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "crackmapexec/crackmapexec.md",
     "grep/grep.md",
     "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Tools installed/Tools installed.md",
     "Tools installed/Pasted image 20231014193537.png",
     "grep/Pasted image 20231014192532.png",
-    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "grep",
     "Netcat nc/Netcat nc.md",
     "SSH/SSH Secure Shell Protocol.md",
-    "PowerShell/PowerShell.md",
     "Netcat nc",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "FTP/FTP.md",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
     "Web HTTP HTTPS/Pasted image 20231014122728.png",
     "Useful Commands/curl.md",
@@ -197,12 +200,9 @@
     "Privilege Escalation (Windows)/Pasted image 20231009024625.png",
     "Encode Decode/URL Encoding and Decoding.md",
     "Proof/Proof.md",
-    "Hashes/Hashes.md",
-    "Password Cracking/hashcat.md",
     "Hashes",
     "PowerShell/PowerView.ps1",
     "PowerShell/New Text Document.txt",
-    "WinRM 5985 5986",
-    "crackmapexec"
+    "WinRM 5985 5986"
   ]
 }
