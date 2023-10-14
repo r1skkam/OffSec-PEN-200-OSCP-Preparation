@@ -16,3 +16,5 @@ https://juggernaut-sec.com/seimpersonateprivilege/
 
 https://juggernaut-sec.com/category/windows-privilege-escalation/
 
+https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/privilege-escalation/windows/windows.rst
+

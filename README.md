@@ -47,3 +47,8 @@ OSEP Notes:
   
 OSED Notes:  
 [https://lnkd.in/dHn-nt9B](https://lnkd.in/dHn-nt9B)
+
+https://hackito.notion.site/hackito/OSCP-Practical-Notes-by-Kartik-8126294579314b908fc6e453d480c145
+
+https://juggernaut-sec.com/category/active-directory-hacking/
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "msfvenom/msfvenom.md",
+                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "msfvenom/msfvenom.md",
+                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "msfvenom/msfvenom.md",
+                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "msfvenom/msfvenom.md"
+                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
+    "README.md",
     "msfvenom/msfvenom.md",
     "msfvenom",
     "PowerShell/PowerShell.md",
@@ -199,7 +200,6 @@
     "Privilege Escalation (Windows)/Pasted image 20231009024654.png",
     "Privilege Escalation (Windows)/Pasted image 20231009024625.png",
     "Encode Decode/URL Encoding and Decoding.md",
-    "Proof/Proof.md",
     "Hashes",
     "PowerShell/PowerView.ps1",
     "PowerShell/New Text Document.txt",
