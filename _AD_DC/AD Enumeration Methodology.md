@@ -110,3 +110,8 @@ xfreerdp /u:rdp_admin /p:P@ssw0rd! /v:192.168.50.64
 xfreerdp /u:rdp_admin /p:P@ssw0rd! /v:127.0.0.1:9833
 ```
 
+```
+net user /domain
+```
+
+
