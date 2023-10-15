@@ -12,9 +12,12 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 https://the.earth.li/~sgtatham/putty/latest/w32/plink.exe
 
-https://juggernaut-sec.com/seimpersonateprivilege/
-
 https://juggernaut-sec.com/category/windows-privilege-escalation/
 
 https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/privilege-escalation/windows/windows.rst
 
+https://steflan-security.com/category/guides/privilegeescalation/windows/
+
+https://github.com/itm4n/PrivescCheck
+
+https://raw.githubusercontent.com/itm4n/PrivescCheck/master/PrivescCheck.ps1

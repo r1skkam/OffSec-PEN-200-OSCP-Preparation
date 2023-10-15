@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WinRM 5985 5986/Windows Remote Management.md",
+                "file": "sharing/sharing.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evil",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WinRM 5985 5986/Windows Remote Management.md",
+                "file": "sharing/sharing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WinRM 5985 5986/Windows Remote Management.md",
+                "file": "sharing/sharing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WinRM 5985 5986/Windows Remote Management.md"
+                "file": "sharing/sharing.md"
               }
             }
           },
@@ -159,10 +158,24 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
-    "crackmapexec/crackmapexec.md",
-    "WinRM 5985 5986/Windows Remote Management.md",
-    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
+    "sharing/Pasted image 20231015152333.png",
+    "sharing/Pasted image 20231015143612.png",
+    "sharing/Pasted image 20231015143401.png",
+    "SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "sharing/sharing.md",
+    "sharing/Pasted image 20231015142908.png",
+    "sharing/Pasted image 20231015142652.png",
+    "sharing/Pasted image 20231015142523.png",
+    "sharing/Pasted image 20231015142205.png",
+    "sharing/Pasted image 20231015141804.png",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+    "sharing",
+    "Evil-WinRM/Evil-WinRM.md",
+    "WinRM 5985 5986/Windows Remote Management.md",
+    "Evil-WinRM",
+    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
+    "crackmapexec/crackmapexec.md",
     "README.md",
     "msfvenom/msfvenom.md",
     "msfvenom",
@@ -170,7 +183,6 @@
     "_AD_DC/AD Enumeration Methodology.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "grep/grep.md",
-    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Tools installed/Tools installed.md",
     "Tools installed/Pasted image 20231014193537.png",
     "grep/Pasted image 20231014192532.png",
@@ -184,26 +196,13 @@
     "Web HTTP HTTPS/Pasted image 20231014122728.png",
     "Useful Commands/curl.md",
     "SNMP/Pentesting SNMP.md",
-    "Tools installed/Pasted image 20231013212443.png",
     "Pivoting/Pivoting.md",
     "SNMP",
     "Useful Commands/Useful Commands.md",
     "Useful Commands/tee.md",
     "Upgrade Shell Spawn",
-    "Tools installed/Pasted image 20231013162240.png",
-    "Tools installed/Pasted image 20231013162154.png",
-    "Enumeration/rpcclient.md",
-    "SMB Server Message Protocol/SMB Server Message Protocol.md",
     "Enumeration",
-    "Useful Commands/Pasted image 20231012123049.png",
-    "Database/mysql.md",
-    "SQLi/SQL injection.md",
-    "Privilege Escalation (Windows)/Pasted image 20231009033039.png",
-    "Privilege Escalation (Windows)/Pasted image 20231009024654.png",
-    "Privilege Escalation (Windows)/Pasted image 20231009024625.png",
     "Hashes",
-    "PowerShell/PowerView.ps1",
-    "PowerShell/New Text Document.txt",
-    "WinRM 5985 5986"
+    "PowerShell/PowerView.ps1"
   ]
 }
