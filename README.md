@@ -52,3 +52,9 @@ https://hackito.notion.site/hackito/OSCP-Practical-Notes-by-Kartik-8126294579314
 
 https://juggernaut-sec.com/category/active-directory-hacking/
 
+https://juggernaut-sec.com/seimpersonateprivilege/
+
+https://www.youtube.com/@ITSecurityLabs/playlists
+
+https://www.youtube.com/playlist?list=PLyJqGMYm0vnMqR-BXa0i44uj6Qb1IxeNv
+
