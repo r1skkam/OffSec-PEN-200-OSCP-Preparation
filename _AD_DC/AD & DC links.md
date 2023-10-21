@@ -18,3 +18,9 @@ https://github.com/fortra/impacket
 
 https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/asreproast
 
+https://github.com/gentilkiwi/mimikatz
+
+https://exploit.ph/category/active-directory.html
+
+https://github.com/ZeroDayLab/PowerSploit/blob/master/Recon/PowerView.ps1
+
