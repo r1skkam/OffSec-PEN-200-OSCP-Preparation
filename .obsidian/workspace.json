@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_AD_DC/AD & DC links.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Filter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_AD_DC/AD & DC links.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_AD_DC/AD & DC links.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_AD_DC/AD & DC links.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,26 +158,42 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "bloodhound/bloodhound.md",
+    "ldap ldaps/ldap ldaps.md",
+    "bloodhound",
+    "impacket-/impacket-.md",
+    "ldap ldaps",
+    "SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "impacket-",
+    "SMB Server Message Protocol/Pasted image 20231021155941.png",
+    "SMB Server Message Protocol/Pasted image 20231021151759.png",
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+    "Privilege Escalation (Linux)/Pasted image 20231021151351.png",
+    "Privilege Escalation (Linux)/Pasted image 20231021151128.png",
+    "Hashes/Hashes.md",
+    "Hashes/Pasted image 20231021142306.png",
+    "Hashes/Pasted image 20231021142132.png",
+    "Hashes/Pasted image 20231021141943.png",
+    "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes/13.3 Working with Password Hashes.md",
+    "_AD_DC/AD Enumeration Methodology.md",
+    "_AD_DC/Active Directory & Domain Controller.md",
+    "_AD_DC/21 Active Directory Introduction and Enumeration/21 Active Directory Introduction and Enumeration.md",
+    "Password Cracking/13 Password Attacks",
+    "_AD_DC/21 Active Directory Introduction and Enumeration",
+    "_AD_DC/AD & DC links.md",
+    "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes",
     "README.md",
     "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "Password Cracking/hashcat.md",
     "SQLi/SQL injection.md",
     "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Useful Commands/Useful Commands.md",
-    "SMB Server Message Protocol/SMB Server Message Protocol.md",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "PowerShell/PowerShell.md",
-    "_AD_DC/AD Enumeration Methodology.md",
-    "_AD_DC/Active Directory & Domain Controller.md",
     "sharing/sharing.md",
     "sharing/Pasted image 20231015152333.png",
     "sharing/Pasted image 20231015143612.png",
     "sharing/Pasted image 20231015143401.png",
-    "sharing/Pasted image 20231015142908.png",
-    "sharing/Pasted image 20231015142652.png",
-    "sharing/Pasted image 20231015142523.png",
-    "sharing/Pasted image 20231015142205.png",
-    "sharing/Pasted image 20231015141804.png",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "sharing",
     "Evil-WinRM/Evil-WinRM.md",
@@ -186,23 +202,7 @@
     "crackmapexec/crackmapexec.md",
     "msfvenom/msfvenom.md",
     "msfvenom",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "grep/grep.md",
-    "Tools installed/Tools installed.md",
-    "Tools installed/Pasted image 20231014193537.png",
-    "grep/Pasted image 20231014192532.png",
-    "grep",
-    "Netcat nc/Netcat nc.md",
-    "SSH/SSH Secure Shell Protocol.md",
-    "Netcat nc",
-    "FTP/FTP.md",
-    "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
-    "Useful Commands/curl.md",
-    "SNMP/Pentesting SNMP.md",
-    "SNMP",
-    "Upgrade Shell Spawn",
-    "Enumeration",
-    "Hashes",
-    "PowerShell/PowerView.ps1"
+    "grep"
   ]
 }

@@ -41,6 +41,9 @@ ls -al /etc/cron* /etc/at*
 find / -name backup 2>/dev/null
 ```
 
+![](Pasted%20image%2020231021151128.png)
+![](Pasted%20image%2020231021151351.png)
+
 ```
 tar -zxvf backup
 ```
