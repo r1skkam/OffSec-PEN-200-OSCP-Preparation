@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nmap/nmap.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "impacket-secretsdump",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nmap/nmap.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nmap/nmap.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nmap/nmap.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,6 +158,11 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2023-10-22.md",
+    "impacket-/impacket-.md",
+    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
+    "nmap/nmap.md",
     "nmap/Pasted image 20231022105257.png",
     "nmap/Pasted image 20231022111119.png",
     "nmap/Pasted image 20231022104912.png",
@@ -165,13 +170,11 @@
     "nmap/Pasted image 20231022103433.png",
     "nmap/Pasted image 20231022103548.png",
     "nmap/Pasted image 20231022102649.png",
-    "nmap/nmap.md",
     "README.md",
     "nmap",
     "bloodhound/bloodhound.md",
     "ldap ldaps/ldap ldaps.md",
     "bloodhound",
-    "impacket-/impacket-.md",
     "ldap ldaps",
     "SMB Server Message Protocol/SMB Server Message Protocol.md",
     "impacket-",
@@ -193,7 +196,6 @@
     "SQLi/SQL injection.md",
     "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Useful Commands/Useful Commands.md",
-    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "PowerShell/PowerShell.md",
     "sharing/sharing.md",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
@@ -201,7 +203,6 @@
     "Evil-WinRM/Evil-WinRM.md",
     "WinRM 5985 5986/Windows Remote Management.md",
     "Evil-WinRM",
-    "crackmapexec/crackmapexec.md",
     "msfvenom"
   ]
 }
