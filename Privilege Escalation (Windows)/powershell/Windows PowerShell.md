@@ -46,3 +46,72 @@ powereshell -ep bypass
 Get-UnquotedService
 ```
 
+```
+ Get-Acl -Path C:\ | Format-List
+```
+
+```
+icacls .\Documents\BetaServ.exe
+```
+
+```
+Get-LocalUser
+```
+
+```
+Get-LocalGroup
+```
+
+```
+Get-LocalGroupMember adminteam
+```
+
+```
+Get-LocalGroupMember Administrators
+```
+
+```
+systeminfo
+```
+
+```
+ipconfig /all
+```
+
+```
+route print
+```
+
+```
+netstat -ano
+```
+
+```
+Get-ItemProperty "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
+```
+
+```
+Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
+```
+
+```
+Get-ChildItem -Path C:\ -Include *.kdbx -File -Recurse -ErrorAction SilentlyContinue
+```
+
+```
+Get-ChildItem -Path C:\xampp -Include *.txt,*.ini -File -Recurse -ErrorAction SilentlyContinue
+```
+
+```
+Get-ChildItem -Path C:\Users\dave\ -Include *.txt,*.pdf,*.xls,*.xlsx,*.doc,*.docx -File -Recurse -ErrorAction SilentlyContinue
+```
+
+```
+Get-History
+```
+
+```
+(Get-PSReadlineOption).HistorySavePath
+```
+
+
