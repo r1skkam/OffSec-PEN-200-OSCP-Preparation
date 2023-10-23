@@ -1,0 +1,4 @@
+```
+exiftool filename.extension
+```
+

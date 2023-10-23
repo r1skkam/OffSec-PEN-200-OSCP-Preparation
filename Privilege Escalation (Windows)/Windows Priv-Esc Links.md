@@ -21,3 +21,5 @@ https://steflan-security.com/category/guides/privilegeescalation/windows/
 https://github.com/itm4n/PrivescCheck
 
 https://raw.githubusercontent.com/itm4n/PrivescCheck/master/PrivescCheck.ps1
+
+https://github.com/carlospolop/PEASS-ng/releases

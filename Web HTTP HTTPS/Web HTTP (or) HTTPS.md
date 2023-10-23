@@ -44,6 +44,10 @@ gobuster dir -w /usr/share/seclists/Discovery/Web-Content/raft-small-words.txt -
 ```
 
 ```
+gobuster dir -u http://$IP -w /usr/share/dirb/wordlists/common.txt | tee enum/gobuster-dir-p80.log
+```
+
+```
 gobuster vhost -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt -u http://academy.htb -o gobuster-vhost-sub.txt
 ```
 
