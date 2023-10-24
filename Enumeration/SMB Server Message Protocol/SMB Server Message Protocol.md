@@ -6,6 +6,14 @@ smbclient -L \\\\$IP\\
 smbclient \\\\$IP\\DIRECTORY
 ```
 
+```
+smbclient -L //$DomainIP -U $DomainName/$DomainUsername
+```
+
+```
+smbclient -L //$DomainIP/DIRECTORY -U $DomainName/$DomainUsername
+```
+
 /etc/samba/smb.conf
 
 ```

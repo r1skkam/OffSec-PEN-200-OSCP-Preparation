@@ -28,3 +28,12 @@ tasklist | findstr "cmd"
 sc query | findstr /i cmd
 ```
 
+```
+tree /f /a
+```
+
+```
+dir /s/b *.log
+```
+
+

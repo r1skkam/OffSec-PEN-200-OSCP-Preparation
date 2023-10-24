@@ -36,6 +36,24 @@ ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u url
 ```
 
 ```
+gobuster dir -u 192.168.50.20 -w /usr/share/wordlists/dirb/common.txt -t
+5
+```
+
+```
+gobuster dir -u http://192.168.50.16:5002 -w /usr/share/wordlists/dirb/big.txt -p pattern
+```
+
+```
+gobuster dir -u http://192.168.50.16:5002/users/v1/admin/ -w
+/usr/share/wordlists/dirb/small.txt
+```
+
+```
+gobuster dir -u http://192.168.50.242 -w /usr/share/wordlists/dirb/common.txt -o mailsrv1/gobuster -x txt,pdf,config
+```
+
+```
 gobuster dir -w /usr/share/wordlists/dirb/big.txt --url http://academy.htb/ -x .php, .txt -o gobuster-result.txt
 ```
 

@@ -30,3 +30,12 @@ crackmapexec ssh server/ip -u usernames.txt -p password.txt --continue-on-succes
 crackmapexec smb server/ip -u usernames.txt -p passwords.txt --continue-on-success
 ```
 
+```
+crackmapexec smb 192.168.50.242 -u usernames.txt -p passwords.txt
+--continue-on-success
+```
+
+```
+proxychains -q crackmapexec smb 172.16.6.240-241 172.16.6.254 -u
+john -d beyond.com -p "dqsTwTpZPn#nL" --shares
+```

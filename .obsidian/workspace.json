@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "access",
+                "query": "cat ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md"
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md"
               }
             }
           },
@@ -159,52 +159,52 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "impacket-/impacket-.md",
+    "Privilege Escalation (Windows)/net/net.md",
+    "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
+    "2023-10-24.md",
+    "crackmapexec/crackmapexec.md",
+    "Useful Commands/Useful Commands.md",
+    "Useful Commands/Pasted image 20231024125817.png",
+    "Password Cracking/Hashes/Hashes.md",
+    "Enumeration/nmap/nmap.md",
+    "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "Pivoting/ligolo-ng/ligolo-ng.md",
+    "Pivoting/ligolo-ng/Pasted image 20231024110520.png",
+    "Pivoting/Pivoting.md",
+    "Pivoting/ligolo-ng",
     "Privilege Escalation (Windows)/cmd/Command Prompt.md",
-    "Privilege Escalation (Windows)/certutil/certutil.md",
+    "_Exam Proofs/Exam Proofs.md",
     "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+    "Privilege Escalation (Windows)/certutil/certutil.md",
     "msfvenom/msfvenom.md",
     "_AD_DC/ldap ldaps/ldap ldaps.md",
     "Privilege Escalation (Linux)/grep/grep.md",
     "Enumeration/LFI RFI/Local & Remote File Inclusion.md",
-    "Password Cracking/Hashes/Hashes.md",
     "sharing/sharing.md",
     "SSH/SSH Secure Shell Protocol.md",
-    "Enumeration/nmap/nmap.md",
     "Scanning/nmap.md",
     "WinRM 5985 5986/Windows Remote Management.md",
     "Privilege Escalation (Windows)/winPEAS/winPEAS.md",
     "Privilege Escalation (Linux)/Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
     "Privilege Escalation (Linux)/Netcat nc/Netcat nc.md",
-    "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/16.2.3 Unquoted Service Paths.md",
     "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/Pasted image 20231023230420.png",
     "Privilege Escalation (Windows)/adduser.c",
     "Privilege Escalation (Windows)/New Text Document.txt",
-    "_Exam Proofs/Exam Proofs.md",
     "_Exam Proofs/Pasted image 20231023222914.png",
     "_Exam Proofs/Pasted image 20231023221933.png",
     "_Exam Proofs/proof.txt",
     "_Exam Proofs/New Text Document.txt",
     "_Exam Proofs/local.txt",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
-    "2023-10-23.md",
     "Privilege Escalation (Windows)/cmd",
     "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths",
-    "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "Privilege Escalation (Windows)/certutil",
-    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
-    "Privilege Escalation (Windows)/net/net.md",
     "Privilege Escalation (Windows)/winPEAS",
-    "Privilege Escalation (Windows)/net",
-    "searchsploit/searchsploit.md",
-    "Privilege Escalation (Linux)/exiftool/exiftool.md",
-    "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Privilege Escalation (Windows)/powershell/Pasted image 20231022230730.png",
     "Enumeration/nmap/Pasted image 20231022205424.png",
     "Enumeration/nmap/Pasted image 20231022205235.png",
     "Enumeration/nmap/Pasted image 20231022195856.png",
     "Enumeration/nmap/Pasted image 20231022195816.png",
-    "Untitled.canvas",
-    "nmap/Pasted image 20231022105257.png",
-    "nmap/Pasted image 20231022111119.png"
+    "Untitled.canvas"
   ]
 }

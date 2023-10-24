@@ -1,5 +1,13 @@
 ### 22-Oct-23 Sun
 
+```
+sudo nmap -T4 -p- --open $IP -oN enum/nmap-ports.log
+```
+
+```
+sudo nmap -p- --open -sCV -v &IP -oN enum/nmap-ports-versions.log 
+```
+
 *SYN scan*
 
 ```
