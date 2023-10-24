@@ -14,3 +14,4 @@ https://gtfobins.github.io/gtfobins/pkexec/
 
 [Tiki Wiki 15.1 - File Upload - PHP webapps Exploit](https://www.exploit-db.com/exploits/40053)
 
+https://juggernaut-sec.com/category/linux-privilege-escalation/

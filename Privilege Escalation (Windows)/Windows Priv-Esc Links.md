@@ -6,7 +6,9 @@ https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escala
 
 https://github.com/SecWiki/windows-kernel-exploits
 
-https://www.youtube.com/playlist?list=PLjG9EfEtwbvIrGFTx4XctK8IxkUJkAEqP
+[Windows Local Privilege Escalation by Sagi Shahar - Very Short Videos](https://www.youtube.com/playlist?list=PLjG9EfEtwbvIrGFTx4XctK8IxkUJkAEqP)
+
+[Sagi Shahar](https://www.youtube.com/@sagishahar)
 
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 

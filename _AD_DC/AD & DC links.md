@@ -24,3 +24,5 @@ https://exploit.ph/category/active-directory.html
 
 https://github.com/ZeroDayLab/PowerSploit/blob/master/Recon/PowerView.ps1
 
+https://youtu.be/gY_9Dncjw-s
+
