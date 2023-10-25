@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+                "file": "Netcat nc/Netcat nc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evil-winrm",
+                "query": "nc.exe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+                "file": "Netcat nc/Netcat nc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+                "file": "Netcat nc/Netcat nc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md"
+                "file": "Netcat nc/Netcat nc.md"
               }
             }
           },
@@ -157,13 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "353afeb9261d0f74",
+  "active": "886506d4563cb180",
   "lastOpenFiles": [
+    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+    "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "2023-10-25.md",
+    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "Evil-WinRM/Evil-WinRM.md",
     "2023-10-22.md",
     "2023-10-24.md",
     "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
-    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "Privilege Escalation (Windows)/Windows Privilege Escalation.md",
     "_AD_DC/AD & DC links.md",
     "README.md",
@@ -180,7 +183,6 @@
     "sharing/Pasted image 20231015142652.png",
     "sharing/Pasted image 20231015142205.png",
     "sharing/Pasted image 20231015141804.png",
-    "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Privilege Escalation (Windows)/net/net.md",
     "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
     "crackmapexec/crackmapexec.md",
@@ -194,8 +196,6 @@
     "Pivoting/ligolo-ng",
     "Privilege Escalation (Windows)/cmd/Command Prompt.md",
     "_Exam Proofs/Exam Proofs.md",
-    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
-    "Privilege Escalation (Windows)/certutil/certutil.md",
     "Privilege Escalation (Windows)/adduser.c",
     "Privilege Escalation (Windows)/New Text Document.txt",
     "_Exam Proofs/proof.txt",
