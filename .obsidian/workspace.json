@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Netcat nc/Netcat nc.md",
+                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netcat nc/Netcat nc.md",
+                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netcat nc/Netcat nc.md",
+                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netcat nc/Netcat nc.md"
+                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md"
               }
             }
           },
@@ -157,8 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "886506d4563cb180",
+  "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "msfvenom/msfvenom.md",
+    "Privilege Escalation (Windows)/accesschk/accesschk.md",
+    "Privilege Escalation (Windows)/winPEAS/winPEAS.md",
+    "Privilege Escalation (Windows)/accesschk",
+    "Netcat nc/Netcat nc.md",
     "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
     "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "2023-10-25.md",
@@ -191,11 +196,7 @@
     "Password Cracking/Hashes/Hashes.md",
     "Enumeration/nmap/nmap.md",
     "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
-    "Pivoting/ligolo-ng/ligolo-ng.md",
-    "Pivoting/Pivoting.md",
     "Pivoting/ligolo-ng",
-    "Privilege Escalation (Windows)/cmd/Command Prompt.md",
-    "_Exam Proofs/Exam Proofs.md",
     "Privilege Escalation (Windows)/adduser.c",
     "Privilege Escalation (Windows)/New Text Document.txt",
     "_Exam Proofs/proof.txt",
@@ -204,7 +205,6 @@
     "Privilege Escalation (Windows)/cmd",
     "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths",
     "Privilege Escalation (Windows)/certutil",
-    "Privilege Escalation (Windows)/winPEAS",
     "Untitled.canvas"
   ]
 }
