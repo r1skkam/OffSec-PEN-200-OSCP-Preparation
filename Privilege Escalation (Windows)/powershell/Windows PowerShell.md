@@ -39,7 +39,11 @@ powershell -ep bypass
 ```
 
 ```
-..\PowerUp.ps1
+Import-Module .\PowerUp.ps1
+```
+
+```
+Get-DomainGPO
 ```
 
 ```
@@ -107,11 +111,6 @@ Get-ChildItem -Path C:\Users\dave\ -Include *.txt,*.pdf,*.xls,*.xlsx,*.doc,*.doc
 ```
 
 ```
-Get-History
+Convert-SidToName S-1-5-21-1987370270-658905905-1781884369-1104
 ```
-
-```
-(Get-PSReadlineOption).HistorySavePath
-```
-
 

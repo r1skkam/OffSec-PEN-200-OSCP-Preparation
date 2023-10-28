@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md",
+                "file": "Privilege Escalation (Windows)/powershell/PowerShell Scripts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nc.exe",
+                "query": "running",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md",
+                "file": "Privilege Escalation (Windows)/powershell/PowerShell Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md",
+                "file": "Privilege Escalation (Windows)/powershell/PowerShell Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md"
+                "file": "Privilege Escalation (Windows)/powershell/PowerShell Scripts.md"
               }
             }
           },
@@ -159,12 +159,22 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Privilege Escalation (Windows)/powershell/PowerUp.ps1",
+    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+    "Privilege Escalation (Windows)/powershell/PowerShell Scripts.md",
+    "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
+    "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell",
+    "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/16.2.3 Unquoted Service Paths.md",
+    "2023-10-28.md",
+    "2023-10-27.md",
+    "Useful-Scripts/possibleUsernamesCombinations.py",
+    "2023-10-26.md",
+    "Privilege Escalation (Windows)/cmd/Command Prompt.md",
     "msfvenom/msfvenom.md",
     "Privilege Escalation (Windows)/accesschk/accesschk.md",
     "Privilege Escalation (Windows)/winPEAS/winPEAS.md",
     "Privilege Escalation (Windows)/accesschk",
     "Netcat nc/Netcat nc.md",
-    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
     "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "2023-10-25.md",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
@@ -183,19 +193,11 @@
     "_AD_DC/Pasted image 20231006211541.png",
     "_AD_DC/pentest_ad_dark_2023_02.svg",
     "_AD_DC/thumbnail_pentest_ad_dark_2023_02.png",
-    "Writing the Report/Writing the Report.md",
     "sharing/Pasted image 20231015143612.png",
     "sharing/Pasted image 20231015142652.png",
     "sharing/Pasted image 20231015142205.png",
     "sharing/Pasted image 20231015141804.png",
-    "Privilege Escalation (Windows)/net/net.md",
-    "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
-    "crackmapexec/crackmapexec.md",
-    "Useful Commands/Useful Commands.md",
     "Useful Commands/Pasted image 20231024125817.png",
-    "Password Cracking/Hashes/Hashes.md",
-    "Enumeration/nmap/nmap.md",
-    "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
     "Pivoting/ligolo-ng",
     "Privilege Escalation (Windows)/adduser.c",
     "Privilege Escalation (Windows)/New Text Document.txt",
@@ -203,8 +205,6 @@
     "_Exam Proofs/New Text Document.txt",
     "_Exam Proofs/local.txt",
     "Privilege Escalation (Windows)/cmd",
-    "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths",
-    "Privilege Escalation (Windows)/certutil",
     "Untitled.canvas"
   ]
 }
