@@ -20,6 +20,10 @@ Get-NetUser | select samaccountname,lastlogon
 ```
 
 ```
+Get-NetUser | select samaccountname,serviceprincipalname
+```
+
+```
 net group "Group-Name" /domain
 ```
 

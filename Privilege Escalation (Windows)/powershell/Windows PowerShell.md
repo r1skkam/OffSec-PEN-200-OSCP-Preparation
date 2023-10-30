@@ -114,3 +114,26 @@ Get-ChildItem -Path C:\Users\dave\ -Include *.txt,*.pdf,*.xls,*.xlsx,*.doc,*.doc
 Convert-SidToName S-1-5-21-1987370270-658905905-1781884369-1104
 ```
 
+```
+Get-NetComputer | select operatingsystem,dnshostname,serviceprincipalname
+```
+
+```
+Find-LocalAdminAccess
+```
+
+```
+Rename-Item
+```
+
+```
+Add-Type -AssemblyName System.IdentityModel
+```
+
+```
+New-Object System.IdentityModel.Tokens.KerberosRequestorSecurityToken -ArgumentList 'HTTP/service.domain.com:port'
+```
+
+```
+Enter-PSSession -ComputerName blahblahblah
+```

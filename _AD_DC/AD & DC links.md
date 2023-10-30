@@ -26,3 +26,6 @@ https://github.com/ZeroDayLab/PowerSploit/blob/master/Recon/PowerView.ps1
 
 https://youtu.be/gY_9Dncjw-s
 
+https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+
+https://github.com/dafthack/DomainPasswordSpray
