@@ -80,3 +80,7 @@ cat /etc/*release
 ```
 find / -user username 2>/dev/null | grep -v 'proc\|run\|sys'
 ```
+
+```
+/sbin/ifconfig
+```

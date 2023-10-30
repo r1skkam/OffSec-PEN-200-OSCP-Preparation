@@ -56,11 +56,31 @@ sudo cp http-vuln-cve-2021-41773.nse /usr/share/nmap/scripts/http-vuln-cve-2021-
 sudo nmap --script-update
 ```
 
+
 ![](Pasted%20image%2020231022102649.png)
 
 ![](Pasted%20image%2020231022103433.png)
 
 https://raw.githubusercontent.com/lorddemon/CVE-2021-41773-PoC/main/CVE-2021-41773.py
+
+
+```
+nmap --script-help http-headers
+```
+
+```
+nmap --script-help=clamav-exec.nse
+```
+
+```
+nmap --script-help all |grep 'ftp'
+```
+
+```
+nmap --script-help ftp-vsftpd-backdoor
+```
+
+
 
 *Fingerprinting Web Servers*
 

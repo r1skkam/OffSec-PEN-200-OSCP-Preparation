@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-30.md",
+                "file": "SSH/SSH Secure Shell Protocol.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psexec",
+                "query": "ssh -D",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-30.md",
+                "file": "SSH/SSH Secure Shell Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-30.md",
+                "file": "SSH/SSH Secure Shell Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-30.md"
+                "file": "SSH/SSH Secure Shell Protocol.md"
               }
             }
           },
@@ -159,6 +159,12 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "SSH/Pasted image 20231030122335.png",
+    "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+    "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "Enumeration/nmap/nmap.md",
+    "2023-10-30.md",
     "_AD_DC/22.2.5 Domain Controller Synchronization/22.2.5 Domain Controller Synchronization.md",
     "_AD_DC/mimikatz/mimikatz.md",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
@@ -170,7 +176,6 @@
     "_AD_DC/AD & DC links.md",
     "_AD_DC/DomainPasswordSpray",
     "2023-10-29.md",
-    "2023-10-30.md",
     "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
     "_AD_DC/Active Directory & Domain Controller.md",
     "_AD_DC/21.3.3 Enumeration Through Service Principal Names/21.3.3 Enumeration Through Service Principal Names.md",
@@ -187,12 +192,7 @@
     "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell",
     "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/16.2.3 Unquoted Service Paths.md",
     "2023-10-28.md",
-    "2023-10-27.md",
     "Useful-Scripts/possibleUsernamesCombinations.py",
-    "2023-10-26.md",
-    "Privilege Escalation (Windows)/cmd/Command Prompt.md",
-    "msfvenom/msfvenom.md",
-    "Privilege Escalation (Windows)/winPEAS/winPEAS.md",
     "Privilege Escalation (Windows)/accesschk",
     "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
     "_AD_DC/Pasted image 20231005205250.png",

