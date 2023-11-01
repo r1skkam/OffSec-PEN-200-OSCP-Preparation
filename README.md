@@ -60,3 +60,4 @@ https://www.youtube.com/playlist?list=PLyJqGMYm0vnMqR-BXa0i44uj6Qb1IxeNv
 
 https://blog.leonardotamiano.xyz/tech/oscp-technical-guide/
 
+https://github.com/xsudoxx/OSCP

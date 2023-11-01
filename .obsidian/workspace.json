@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/SSH Secure Shell Protocol.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh -D",
+                "query": "xsudoxx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH/SSH Secure Shell Protocol.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH/SSH Secure Shell Protocol.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH/SSH Secure Shell Protocol.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,41 +158,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "353afeb9261d0f74",
+  "active": "5d672a6d073d79d4",
   "lastOpenFiles": [
+    "2023-11-01.md",
+    "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+    "Useful Commands/Useful Commands.md",
+    "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "_AD_DC/mimikatz/mimikatz.md",
+    "Password Cracking/Hashes/Hashes.md",
+    "Evil-WinRM/Evil-WinRM.md",
+    "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes/13.3 Working with Password Hashes.md",
+    "crackmapexec/crackmapexec.md",
+    "SSH/SSH Secure Shell Protocol.md",
+    "Pivoting/Pivoting.md",
+    "Privilege Escalation (Windows)/accesschk/accesschk.md",
+    "_AD_DC/22.2.5 Domain Controller Synchronization/22.2.5 Domain Controller Synchronization.md",
+    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+    "_AD_DC/AD Enumeration Methodology.md",
+    "_AD_DC/AD & DC links.md",
+    "Password Cracking/john.md",
+    "Password Cracking/hashcat.md",
+    "Privilege Escalation (Windows)/cmd/Command Prompt.md",
+    "2023-10-31.md",
     "SSH/Pasted image 20231030122335.png",
     "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
     "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
-    "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Enumeration/nmap/nmap.md",
     "2023-10-30.md",
-    "_AD_DC/22.2.5 Domain Controller Synchronization/22.2.5 Domain Controller Synchronization.md",
-    "_AD_DC/mimikatz/mimikatz.md",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
-    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
     "_AD_DC/23.1.2 PsExec/23.1.2 PsExec.md",
     "impacket-/impacket-.md",
     "_AD_DC/23.1.2 PsExec",
-    "_AD_DC/DomainPasswordSpray/DomainPasswordSpray.md",
-    "_AD_DC/AD & DC links.md",
     "_AD_DC/DomainPasswordSpray",
-    "2023-10-29.md",
-    "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
-    "_AD_DC/Active Directory & Domain Controller.md",
-    "_AD_DC/21.3.3 Enumeration Through Service Principal Names/21.3.3 Enumeration Through Service Principal Names.md",
     "_AD_DC/21.3.3 Enumeration Through Service Principal Names",
-    "_AD_DC/AD Enumeration Methodology.md",
-    "Password Cracking/hashcat.md",
-    "Password Cracking/Hashes/Hashes.md",
     "_AD_DC/mimikatz",
-    "Privilege Escalation (Windows)/accesschk/accesschk.md",
-    "Privilege Escalation (Linux)/Reverse Shell Cheat Sheet/Reverse Shell Cheat Sheet.md",
-    "Privilege Escalation (Windows)/powershell/PowerShell Scripts.md",
     "Privilege Escalation (Windows)/powershell/PowerUp.ps1",
-    "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
     "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell",
-    "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/16.2.3 Unquoted Service Paths.md",
-    "2023-10-28.md",
     "Useful-Scripts/possibleUsernamesCombinations.py",
     "Privilege Escalation (Windows)/accesschk",
     "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
@@ -203,7 +205,6 @@
     "sharing/Pasted image 20231015142652.png",
     "sharing/Pasted image 20231015142205.png",
     "sharing/Pasted image 20231015141804.png",
-    "Useful Commands/Pasted image 20231024125817.png",
     "Pivoting/ligolo-ng",
     "Untitled.canvas"
   ]
