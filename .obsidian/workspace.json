@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-05.md",
+                "file": "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-05.md",
+                "file": "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-05.md",
+                "file": "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-05.md"
+                "file": "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md"
               }
             }
           },
@@ -160,8 +159,8 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
-    "README.md",
     "2023-11-05.md",
+    "README.md",
     "2023-11-01.md",
     "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Useful Commands/Useful Commands.md",
