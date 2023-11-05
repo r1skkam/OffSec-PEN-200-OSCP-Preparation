@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2023-11-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2023-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2023-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2023-11-05.md"
               }
             }
           },
@@ -158,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d672a6d073d79d4",
+  "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "README.md",
+    "2023-11-05.md",
     "2023-11-01.md",
     "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Useful Commands/Useful Commands.md",
@@ -186,8 +188,6 @@
     "Enumeration/nmap/nmap.md",
     "2023-10-30.md",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
-    "_AD_DC/23.1.2 PsExec/23.1.2 PsExec.md",
-    "impacket-/impacket-.md",
     "_AD_DC/23.1.2 PsExec",
     "_AD_DC/DomainPasswordSpray",
     "_AD_DC/21.3.3 Enumeration Through Service Principal Names",
