@@ -48,3 +48,26 @@ sudo responder -I eth1 -dwPv
 impacket-ntlmrelayx -tf targets.txt -smb2support -c "whoami"
 ```
 
+```
+sudo nmap --script smb-enum-shares -p445 10.129.200.70
+```
+
+```
+sudo nmap -sU -sS --script smb-enum-shares.nse -p U:137,T:139 10.129.200.70
+```
+
+```
+sudo nmap -p139 --script smb-protocols 10.129.200.70
+```
+
+```
+sudo nmap -p445 --script smb-protocols 10.129.200.70
+```
+
+```
+nmap --script=smb-protocols -p139,445 --open --reason -sV -Pn
+nmap --script=smb-protocols -p445 --open --reason -sV -Pn
+nmap --script=smb-protocols -p139 --open --reason -sV -Pn
+```
+
+

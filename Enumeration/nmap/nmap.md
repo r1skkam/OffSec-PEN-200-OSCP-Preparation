@@ -158,3 +158,10 @@ nmap -p 1-65535 -T4 -A -v 10.129.67.150
 nmap -T4 -p- -A $IP
 ```
 
+```
+sudo nmap --script smb-enum-shares -p445 10.129.200.70
+```
+
+```
+sudo nmap -sU -sS --script smb-enum-shares.nse -p U:137,T:139 10.129.200.70
+```
