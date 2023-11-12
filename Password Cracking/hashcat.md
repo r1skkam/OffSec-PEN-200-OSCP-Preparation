@@ -13,3 +13,12 @@ hashcat --help | grep -i "ntlm"
 ```
 hashcat -m 1000 nelly.hash /usr/share/wordlists/rockyou.txt -r /usr/share/hashcat/rules/best64.rule --force
 ```
+
+```
+hashcat krb5tgs.hash  /usr/share/wordlists/rockyou.txt
+```
+
+```
+hashcat krb5tgs.hash  --show
+```
+

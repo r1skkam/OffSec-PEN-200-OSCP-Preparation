@@ -7,6 +7,10 @@ smbclient -L //dc1.scrm.local
 ```
 
 ```
+smbclient -U ksimpson -L //dc1.scrm.local
+```
+
+```
 smbclient \\\\$IP\\DIRECTORY
 ```
 

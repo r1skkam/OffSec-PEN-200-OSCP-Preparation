@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+                "file": "Password Cracking/hashcat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xsudoxx",
+                "query": "kerbrute",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+                "file": "Password Cracking/hashcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+                "file": "Password Cracking/hashcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md"
+                "file": "Password Cracking/hashcat.md"
               }
             }
           },
@@ -159,8 +159,15 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
-    "Enumeration/nmap/nmap.md",
+    "Password Cracking/Hashes/Hashes.md",
+    "Password Cracking/hashcat.md",
+    "impacket-/impacket-.md",
     "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "Password Cracking/22.2.1 Password Attacks/22.2.1 Password Attacks.md",
+    "Tools installed/Tools installed.md",
+    "Password Cracking/22.2.1 Password Attacks",
+    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
+    "Enumeration/nmap/nmap.md",
     "2023-11-12.md",
     "2023-11-07.md",
     "2023-11-06.md",
@@ -170,7 +177,6 @@
     "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Useful Commands/Useful Commands.md",
     "_AD_DC/mimikatz/mimikatz.md",
-    "Password Cracking/Hashes/Hashes.md",
     "Evil-WinRM/Evil-WinRM.md",
     "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes/13.3 Working with Password Hashes.md",
     "crackmapexec/crackmapexec.md",
@@ -180,11 +186,6 @@
     "_AD_DC/22.2.5 Domain Controller Synchronization/22.2.5 Domain Controller Synchronization.md",
     "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
     "_AD_DC/AD Enumeration Methodology.md",
-    "_AD_DC/AD & DC links.md",
-    "Password Cracking/john.md",
-    "Password Cracking/hashcat.md",
-    "Privilege Escalation (Windows)/cmd/Command Prompt.md",
-    "2023-10-31.md",
     "SSH/Pasted image 20231030122335.png",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
     "_AD_DC/23.1.2 PsExec",
@@ -204,7 +205,6 @@
     "sharing/Pasted image 20231015142652.png",
     "sharing/Pasted image 20231015142205.png",
     "sharing/Pasted image 20231015141804.png",
-    "Pivoting/ligolo-ng",
     "Untitled.canvas"
   ]
 }
