@@ -165,3 +165,7 @@ sudo nmap --script smb-enum-shares -p445 10.129.200.70
 ```
 sudo nmap -sU -sS --script smb-enum-shares.nse -p U:137,T:139 10.129.200.70
 ```
+
+```
+sudo nmap -sC -sV -oA enum/services.nmap 10.129.41.200
+```

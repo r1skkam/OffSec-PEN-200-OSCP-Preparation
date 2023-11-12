@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
+                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
+                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
+                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md"
+                "file": "Privilege Escalation (Windows)/Windows Priv-Esc Links.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   "lastOpenFiles": [
     "Enumeration/nmap/nmap.md",
     "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "2023-11-12.md",
+    "2023-11-07.md",
     "2023-11-06.md",
     "2023-11-05.md",
     "README.md",
@@ -184,8 +186,6 @@
     "Privilege Escalation (Windows)/cmd/Command Prompt.md",
     "2023-10-31.md",
     "SSH/Pasted image 20231030122335.png",
-    "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
     "_AD_DC/23.1.2 PsExec",
     "_AD_DC/DomainPasswordSpray",

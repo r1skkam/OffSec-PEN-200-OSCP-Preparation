@@ -3,6 +3,10 @@ smbclient -L \\\\$IP\\
 ```
 
 ```
+smbclient -L //dc1.scrm.local
+```
+
+```
 smbclient \\\\$IP\\DIRECTORY
 ```
 
