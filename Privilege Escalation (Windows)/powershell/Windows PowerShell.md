@@ -137,3 +137,11 @@ New-Object System.IdentityModel.Tokens.KerberosRequestorSecurityToken -ArgumentL
 ```
 Enter-PSSession -ComputerName blahblahblah
 ```
+
+```
+Set-ADAccountControl -Identity manager -DoesNotRequirePreAuth $true
+```
+
+```
+Set-ADAccountControl -Identity manager -DoesNotRequirePreAuth $false
+```
