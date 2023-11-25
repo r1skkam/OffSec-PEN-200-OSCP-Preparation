@@ -1,3 +1,9 @@
+| Database type |	Query |
+| --- | --- |
+| Microsoft, MySQL | SELECT @@version |
+| Oracle	| SELECT * FROM v$version |
+| PostgreSQL |	SELECT version() |
+
 ```
 '+OR+1=1--
 ```
