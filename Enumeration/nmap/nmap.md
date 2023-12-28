@@ -169,3 +169,23 @@ sudo nmap -sU -sS --script smb-enum-shares.nse -p U:137,T:139 10.129.200.70
 ```
 sudo nmap -sC -sV -oA enum/services.nmap 10.129.41.200
 ```
+
+```
+sudo nmap -p- $IP -oG allports
+```
+
+```
+grep -oP '([\d]+)/open' allports
+```
+
+```
+grep -oP '([\d]+)/open' allports | awk -F/ '{print $1}' 
+```
+
+```
+grep -oP '([\d]+)/open' allports | awk -F/ '{print $1}' | tr '\n' ','
+```
+
+```
+sudo nmap -sC -sV -oA nmap/broker -p '22,80,61616' $IP
+```
