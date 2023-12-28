@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Password Cracking/hashcat.md",
+                "file": "2023-12-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password Cracking/hashcat.md",
+                "file": "2023-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Password Cracking/hashcat.md",
+                "file": "2023-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Password Cracking/hashcat.md"
+                "file": "2023-12-28.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
-    "Password Cracking/Hashes/Hashes.md",
+    "2023-12-03.md",
+    "2023-12-28.md",
+    "2023-11-13.md",
     "Password Cracking/hashcat.md",
+    "Password Cracking/Hashes/Hashes.md",
     "impacket-/impacket-.md",
     "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
     "Password Cracking/22.2.1 Password Attacks/22.2.1 Password Attacks.md",
@@ -183,9 +186,6 @@
     "SSH/SSH Secure Shell Protocol.md",
     "Pivoting/Pivoting.md",
     "Privilege Escalation (Windows)/accesschk/accesschk.md",
-    "_AD_DC/22.2.5 Domain Controller Synchronization/22.2.5 Domain Controller Synchronization.md",
-    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
-    "_AD_DC/AD Enumeration Methodology.md",
     "SSH/Pasted image 20231030122335.png",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
     "_AD_DC/23.1.2 PsExec",
