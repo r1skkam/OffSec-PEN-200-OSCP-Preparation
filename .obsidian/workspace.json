@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crackmapexec/crackmapexec.md",
+                "file": "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crackmapexec/crackmapexec.md",
+                "file": "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crackmapexec/crackmapexec.md",
+                "file": "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crackmapexec/crackmapexec.md"
+                "file": "Upgrade Shell Spawn/Upgrade Shell Spawn.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "66a58897e0b5ca55",
   "lastOpenFiles": [
+    "2024-01-08.md",
+    "crackmapexec/crackmapexec.md",
     "~$Common Commands.xlsx",
     "Common Commands.xlsx",
     "Book2.xlsx",
@@ -203,7 +205,6 @@
     "_AD_DC/mimikatz/mimikatz.md",
     "Evil-WinRM/Evil-WinRM.md",
     "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes/13.3 Working with Password Hashes.md",
-    "crackmapexec/crackmapexec.md",
     "SSH/Pasted image 20231030122335.png",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
     "_AD_DC/23.1.2 PsExec",
@@ -211,7 +212,6 @@
     "_AD_DC/21.3.3 Enumeration Through Service Principal Names",
     "_AD_DC/mimikatz",
     "Privilege Escalation (Windows)/powershell/PowerUp.ps1",
-    "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell",
     "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
     "_AD_DC/Pasted image 20231005205250.png",
     "_AD_DC/Pasted image 20231006211541.png",

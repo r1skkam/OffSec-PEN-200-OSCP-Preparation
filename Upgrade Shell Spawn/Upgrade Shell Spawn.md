@@ -32,3 +32,12 @@ $ export TERM=xterm256-color
 $ stty rows 38 columns 116
 ```
 
+## shell stability:
+
+```
+script /dev/null -c /bin/bash
+CTRL + Z
+stty raw -echo; fg
+Enter twice, and 
+export TERM=xterm
+```
