@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kerbrute",
+                "query": "ffuf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Upgrade Shell Spawn/Upgrade Shell Spawn.md"
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md"
               }
             }
           },
@@ -175,6 +176,9 @@
   },
   "active": "66a58897e0b5ca55",
   "lastOpenFiles": [
+    "_Exam Proofs/Exam Proofs.md",
+    "2024-01-09.md",
+    "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
     "2024-01-08.md",
     "crackmapexec/crackmapexec.md",
     "~$Common Commands.xlsx",
@@ -202,9 +206,6 @@
     "2023-11-01.md",
     "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "Useful Commands/Useful Commands.md",
-    "_AD_DC/mimikatz/mimikatz.md",
-    "Evil-WinRM/Evil-WinRM.md",
-    "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes/13.3 Working with Password Hashes.md",
     "SSH/Pasted image 20231030122335.png",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
     "_AD_DC/23.1.2 PsExec",

@@ -32,7 +32,7 @@ dirb url
 ```
 
 ```
-ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u url/FUZZ
+ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u 'url/FUZZ' -k
 ```
 
 ```
