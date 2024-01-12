@@ -22,6 +22,10 @@ smbclient -L //$DomainIP -U $DomainName/$DomainUsername
 smbclient -L //$DomainIP/DIRECTORY -U $DomainName/$DomainUsername
 ```
 
+```
+smbclient -L 10.129.61.158 -U Administrator
+```
+
 /etc/samba/smb.conf
 
 ```

