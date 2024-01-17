@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+                "file": "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "powershell",
+                "query": "spn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+                "file": "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+                "file": "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Windows)/powershell/Windows PowerShell.md"
+                "file": "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md"
               }
             }
           },
@@ -176,12 +176,21 @@
   },
   "active": "66a58897e0b5ca55",
   "lastOpenFiles": [
+    "_AD_DC/21.3.3 Enumeration Through Service Principal Names/21.3.3 Enumeration Through Service Principal Names.md",
+    "Password Cracking/22.2.1 Password Attacks/22.2.1 Password Attacks.md",
+    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
+    "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
+    "crackmapexec/crackmapexec.md",
+    "_AD_DC/ldapsearch.md",
+    "_AD_DC/ldap ldaps/ldap ldaps.md",
+    "Password Cracking/john.md",
+    "Password Cracking/hydra.md",
+    "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes/13.3 Working with Password Hashes.md",
+    "2024-01-17.md",
     "2024-01-13.md",
     "Privilege Escalation (Windows)/cmd/Command Prompt.md",
     "2023-10-23.md",
     "impacket-/impacket-.md",
-    "crackmapexec/crackmapexec.md",
-    "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
     "2024-01-12.md",
     "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/16.2.3 Unquoted Service Paths.md",
     "_AD_DC/AD Enumeration Methodology.md",
@@ -196,16 +205,7 @@
     "Common Commands.xlsx",
     "Book2.xlsx",
     "2024-01-05.md",
-    "2024-01-02.md",
-    "2023-12-28.md",
-    "2023-12-03.md",
-    "2023-11-13.md",
-    "Password Cracking/hashcat.md",
-    "Password Cracking/Hashes/Hashes.md",
-    "Password Cracking/22.2.1 Password Attacks/22.2.1 Password Attacks.md",
-    "Tools installed/Tools installed.md",
     "Password Cracking/22.2.1 Password Attacks",
-    "Privilege Escalation (Windows)/Windows Priv-Esc Links.md",
     "SSH/Pasted image 20231030122335.png",
     "_AD_DC/22.2.5 Domain Controller Synchronization",
     "_AD_DC/23.1.2 PsExec",
