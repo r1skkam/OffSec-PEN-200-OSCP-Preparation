@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
+                "file": "_Exam Proofs/Exam Proofs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evil",
+                "query": "proof.txt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
+                "file": "_Exam Proofs/Exam Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
+                "file": "_Exam Proofs/Exam Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md"
+                "file": "_Exam Proofs/Exam Proofs.md"
               }
             }
           },
@@ -176,6 +176,13 @@
   },
   "active": "66a58897e0b5ca55",
   "lastOpenFiles": [
+    "Privilege Escalation (Windows)/16.2 Leveraging Windows Services/16.2 Leveraging Windows Services.md",
+    "_AD_DC/Active Directory & Domain Controller.md",
+    "Privilege Escalation (Windows)/16.2 Leveraging Windows Services",
+    "Untitled",
+    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+    "Enumeration/nmap/nmap.md",
+    "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
     "2024-01-29.md",
     "impacket-/impacket-.md",
     "2024-01-28.md",
@@ -197,11 +204,6 @@
     "_AD_DC/ldapsearch.md",
     "_AD_DC/ldap ldaps/ldap ldaps.md",
     "Password Cracking/john.md",
-    "Password Cracking/hydra.md",
-    "2024-01-17.md",
-    "2024-01-13.md",
-    "Privilege Escalation (Windows)/cmd/Command Prompt.md",
-    "2023-10-23.md",
     "~$Common Commands.xlsx",
     "Common Commands.xlsx",
     "Book2.xlsx",
@@ -211,8 +213,6 @@
     "_AD_DC/23.1.2 PsExec",
     "_AD_DC/DomainPasswordSpray",
     "_AD_DC/21.3.3 Enumeration Through Service Principal Names",
-    "_AD_DC/mimikatz",
-    "Privilege Escalation (Windows)/powershell/PowerUp.ps1",
     "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
     "_AD_DC/Pasted image 20231005205250.png",
     "_AD_DC/Pasted image 20231006211541.png",

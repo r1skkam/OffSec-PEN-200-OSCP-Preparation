@@ -1,6 +1,6 @@
 
 ```
-impacket-GetUserSPNs domain-nam/domain-user:password -dc-ip x.x.x.x -request
+impacket-GetUserSPNs domain-name/domain-user:password -dc-ip x.x.x.x -request
 ```
 
 ```
