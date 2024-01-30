@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/nmap/nmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66a58897e0b5ca55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Exam Proofs/Exam Proofs.md",
+                "file": "2024-01-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof.txt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Exam Proofs/Exam Proofs.md",
+                "file": "2024-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Exam Proofs/Exam Proofs.md",
+                "file": "2024-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Exam Proofs/Exam Proofs.md"
+                "file": "2024-01-05.md"
               }
             }
           },
@@ -174,36 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66a58897e0b5ca55",
+  "active": "353afeb9261d0f74",
   "lastOpenFiles": [
-    "Privilege Escalation (Windows)/16.2 Leveraging Windows Services/16.2 Leveraging Windows Services.md",
-    "_AD_DC/Active Directory & Domain Controller.md",
+    "2024-01-11.md",
+    "2024-01-05.md",
+    "2024-01-09.md",
+    "2024-01-02.md",
+    "2023-12-28.md",
+    "2023-11-05.md",
+    "2023-10-30.md",
+    "2023-10-29.md",
+    "2023-10-26.md",
+    "2023-10-25.md",
+    "2023-10-24.md",
+    "2023-10-23.md",
+    "2023-10-22.md",
+    "Enumeration/nmap/nmap.md",
+    "2023-11-13.md",
+    "2023-12-03.md",
+    "2023-11-12.md",
+    "2023-11-07.md",
+    "2023-11-06.md",
+    "2023-11-01.md",
+    "2023-10-31.md",
+    "2023-10-28.md",
+    "2023-10-27.md",
+    "2024-01-08.md",
+    "2024-01-12.md",
+    "2024-01-13.md",
     "Privilege Escalation (Windows)/16.2 Leveraging Windows Services",
     "Untitled",
-    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
-    "Enumeration/nmap/nmap.md",
-    "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
-    "2024-01-29.md",
-    "impacket-/impacket-.md",
-    "2024-01-28.md",
-    "_AD_DC/AD Enumeration Methodology.md",
-    "2024-01-25.md",
-    "2024-01-22.md",
-    "Privilege Escalation (Windows)/certutil/certutil.md",
-    "2024-01-21.md",
-    "2024-01-20.md",
-    "Enumeration/SQLi/SQL injection.md",
-    "2024-01-18.md",
-    "crackmapexec/crackmapexec.md",
-    "Password Cracking/13 Password Attacks/13.3 Working with Password Hashes/13.3 Working with Password Hashes.md",
-    "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
-    "_AD_DC/21.3.3 Enumeration Through Service Principal Names/21.3.3 Enumeration Through Service Principal Names.md",
-    "Password Cracking/22.2.1 Password Attacks/22.2.1 Password Attacks.md",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
-    "Enumeration/SMB Server Message Protocol/SMB Server Message Protocol.md",
-    "_AD_DC/ldapsearch.md",
-    "_AD_DC/ldap ldaps/ldap ldaps.md",
-    "Password Cracking/john.md",
     "~$Common Commands.xlsx",
     "Common Commands.xlsx",
     "Book2.xlsx",
