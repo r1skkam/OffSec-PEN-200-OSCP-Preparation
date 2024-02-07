@@ -78,6 +78,21 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 [subprocess — Subprocess management &#8212; Python 3.11.5 documentation](https://docs.python.org/3/library/subprocess.html) 
 
+## uploadserver
+
+[uploadserver](https://pypi.org/project/uploadserver/)
+
+```
+python3 -m pip install --user uploadserver
+```
+
+```
+python3 -m uploadserver
+```
+
+```
+curl -X POST http://127.0.0.1:8000/upload -F 'files=@multiple-example-1.txt' -F 'files=@multiple-example-2.txt'
+```
 
 
 
