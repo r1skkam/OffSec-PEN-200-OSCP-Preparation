@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP-Exam-Guide/OSCP-Exam-Guide.md",
+                "file": "Enumeration/nmap/nmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP-Exam-Guide/OSCP-Exam-Guide.md",
+                "file": "Enumeration/nmap/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP-Exam-Guide/OSCP-Exam-Guide.md",
+                "file": "Enumeration/nmap/nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP-Exam-Guide/OSCP-Exam-Guide.md"
+                "file": "Enumeration/nmap/nmap.md"
               }
             }
           },
@@ -161,10 +161,12 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
-    "2023-10-30.md",
-    "OSCP-Exam-Guide/OSCP-Exam-Guide.md",
-    "OSCP-Exam-Guide",
+    "Tools installed/Tools installed.md",
     "Useful-Scripts/python.md",
+    "_Exam Proofs/Exam Proofs.md",
+    "OSCP-Exam-Guide/OSCP-Exam-Guide.md",
+    "2023-10-30.md",
+    "OSCP-Exam-Guide",
     "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
     "SSH/SSH Secure Shell Protocol.md",
     "Pivoting/Pivoting.md",
@@ -186,8 +188,6 @@
     "2023-12-03.md",
     "2023-11-12.md",
     "2023-11-07.md",
-    "2023-11-06.md",
-    "2023-11-01.md",
     "Privilege Escalation (Windows)/16.2 Leveraging Windows Services",
     "~$Common Commands.xlsx",
     "Common Commands.xlsx",

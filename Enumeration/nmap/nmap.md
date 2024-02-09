@@ -189,3 +189,7 @@ grep -oP '([\d]+)/open' allports | awk -F/ '{print $1}' | tr '\n' ','
 ```
 sudo nmap -sC -sV -oA nmap/broker -p '22,80,61616' $IP
 ```
+
+```
+
+```

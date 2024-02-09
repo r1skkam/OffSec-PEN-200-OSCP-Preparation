@@ -105,3 +105,10 @@ Poetry is a tool for **dependency management** and **packaging** in Python.
 
 ![](Pasted%20image%2020231014193537.png)
 
+**rlwrap**
+
+https://github.com/hanslub42/rlwrap 'readline wrapper'
+
+**dbeaver**
+
+https://www.kali.org/tools/dbeaver/
