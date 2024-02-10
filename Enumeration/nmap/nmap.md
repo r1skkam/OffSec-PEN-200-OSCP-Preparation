@@ -191,5 +191,6 @@ sudo nmap -sC -sV -oA nmap/broker -p '22,80,61616' $IP
 ```
 
 ```
-
+sudo nmap -p- --min-rate 10000 -v -oA love-allports 10.129.207.242
 ```
+
