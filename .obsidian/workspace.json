@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "msfvenom/msfvenom.md",
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "msf",
+                "query": "gobuster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "msfvenom/msfvenom.md",
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "msfvenom/msfvenom.md",
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "msfvenom/msfvenom.md"
+                "file": "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md"
               }
             }
           },
@@ -162,13 +162,14 @@
   },
   "active": "353afeb9261d0f74",
   "lastOpenFiles": [
+    "Enumeration/nmap/nmap.md",
+    "OSCP-Exam-Guide/OSCP-Exam-Guide.md",
+    "msfvenom/msfvenom.md",
     "Useful Commands/curl.md",
     "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
-    "Enumeration/nmap/nmap.md",
     "Tools installed/Tools installed.md",
     "Useful-Scripts/python.md",
     "_Exam Proofs/Exam Proofs.md",
-    "OSCP-Exam-Guide/OSCP-Exam-Guide.md",
     "2023-10-30.md",
     "OSCP-Exam-Guide",
     "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
@@ -188,7 +189,6 @@
     "2023-10-23.md",
     "2023-10-22.md",
     "2023-11-13.md",
-    "2023-12-03.md",
     "Privilege Escalation (Windows)/16.2 Leveraging Windows Services",
     "~$Common Commands.xlsx",
     "Common Commands.xlsx",
