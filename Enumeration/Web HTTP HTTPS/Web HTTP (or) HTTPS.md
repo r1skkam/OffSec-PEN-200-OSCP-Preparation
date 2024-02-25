@@ -126,3 +126,7 @@ put /var/www/html/php-reverse-shell.php
 ```
 gobuster dns -d artcorp.htb -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-110000.txt -q -r 8.8.8.8 -t 4 --delay 1s -o subdomains.txt
 ```
+
+```
+wfuzz -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -u artcorp.htb -H "Host: FUZZ.artcorp.htb" --hh 0
+```
