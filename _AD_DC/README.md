@@ -1,3 +1,4 @@
+# Active Directory & Domain Controller
 
 ```
 impacket-GetUserSPNs domain-name/domain-user:password -dc-ip x.x.x.x -request

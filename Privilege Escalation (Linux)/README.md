@@ -3,6 +3,8 @@
 
 ![[Linux Privilege Escalation.png]]
 
+![Linux Privilege Escalation](https://github.com/r1skkam/OffSec-PEN-200-OSCP-Preparation/assets/58542375/1908ed45-dc27-49ab-a4d5-275adbc1ebfd)
+
 ### 01092023Fri
 
 ```
