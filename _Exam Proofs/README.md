@@ -41,3 +41,6 @@ which cat
 ```
 
 ![[Pasted image 20230826204837.png]]
+
+![Pasted image 20230826204837](https://github.com/r1skkam/OffSec-PEN-200-OSCP-Preparation/assets/58542375/1d0d7312-5c39-400d-a346-9af2531661d8)
+
