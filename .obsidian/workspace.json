@@ -24,9 +24,12 @@
             "id": "4ccf5267ef994666",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png"
+                "file": "_Exam Proofs/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
+                "file": "_Exam Proofs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
+                "file": "_Exam Proofs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png"
+                "file": "_Exam Proofs/README.md"
               }
             }
           },
@@ -172,52 +175,51 @@
   },
   "active": "4ccf5267ef994666",
   "lastOpenFiles": [
+    "Privilege Escalation (Linux)/README.md",
+    "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
+    "firewall/README.md",
+    "_Exam Proofs/README.md",
+    "_AD_DC/README.md",
+    "Writing the Report/README.md",
+    "WinRM 5985 5986/README.md",
+    "Useful-Scripts/README.md",
+    "Useful Commands/README.md",
+    "Upgrade Shell Spawn/README.md",
+    "Tools installed/README.md",
+    "SSH/README.md",
+    "Privilege Escalation (Windows)/README.md",
+    "Pivoting/ligolo-ng/README.md",
+    "Pivoting/README.md",
+    "OSCP-Exam-Guide/README.md",
+    "Netcat nc/README.md",
+    "Evil-WinRM/README.md",
+    "Evil-WinRM/FTP/README.md",
+    "Enumeration/Web HTTP HTTPS/README.md",
+    "Enumeration/SQLi/README.md",
+    "Enumeration/SNMP/README.md",
+    "Enumeration/SMB Server Message Protocol/README.md",
+    "Enumeration/LFI RFI/README.md",
+    "Encode Decode/URL Encoding and Decoding/README.md",
+    "Encode Decode/URL Encoding and Decoding",
+    "Default Ports and Protocols/Default Ports and Protocols/README.md",
+    "Default Ports and Protocols/Default Ports and Protocols",
+    "Command Execution/php",
+    "Bug Codes/ruby",
+    "Bug Codes/python",
+    "Bug Codes/php",
     "Privilege Escalation (Linux)/Pasted image 20231021151351.png",
     "Privilege Escalation (Linux)/Pasted image 20231021151128.png",
     "Privilege Escalation (Linux)/Linux_PE_Methodology_MAP(1).png",
-    "Privilege Escalation (Linux)/Linux Privilege Escalation.md",
-    "impacket-/README.md",
-    "Upgrade Shell Spawn/Upgrade Shell Spawn.md",
-    "Enumeration/Web HTTP HTTPS/Web HTTP (or) HTTPS.md",
-    "Evil-WinRM/Evil-WinRM.md",
-    "2023-10-22.md",
-    "Enumeration/nmap/nmap.md",
-    "OSCP-Exam-Guide/OSCP-Exam-Guide.md",
-    "msfvenom/msfvenom.md",
-    "Useful Commands/curl.md",
-    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
-    "Tools installed/Tools installed.md",
-    "Useful-Scripts/python.md",
-    "_Exam Proofs/Exam Proofs.md",
-    "2023-10-30.md",
     "OSCP-Exam-Guide",
-    "SSH/SSH Secure Shell Protocol.md",
-    "Pivoting/Pivoting.md",
-    "Password Cracking/hydra.md",
-    "2024-01-05.md",
-    "2024-01-11.md",
-    "2024-01-09.md",
-    "2024-01-02.md",
-    "2023-12-28.md",
-    "2023-11-05.md",
-    "2023-10-29.md",
     "Privilege Escalation (Windows)/16.2 Leveraging Windows Services",
     "~$Common Commands.xlsx",
     "Common Commands.xlsx",
-    "Book2.xlsx",
-    "Password Cracking/22.2.1 Password Attacks",
     "SSH/Pasted image 20231030122335.png",
-    "_AD_DC/22.2.5 Domain Controller Synchronization",
-    "_AD_DC/23.1.2 PsExec",
-    "_AD_DC/DomainPasswordSpray",
-    "_AD_DC/21.3.3 Enumeration Through Service Principal Names",
-    "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
     "_AD_DC/Pasted image 20231005205250.png",
     "_AD_DC/Pasted image 20231006211541.png",
     "_AD_DC/pentest_ad_dark_2023_02.svg",
     "_AD_DC/thumbnail_pentest_ad_dark_2023_02.png",
     "sharing/Pasted image 20231015143612.png",
-    "sharing/Pasted image 20231015142652.png",
     "Untitled.canvas"
   ]
 }
