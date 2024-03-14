@@ -36,6 +36,14 @@ ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u 'ur
 ```
 
 ```
+ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -c -ac -u https://malachite.ctfio.com/FUZZ -mc 200
+```
+
+```
+ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -c -ac -u https://malachite.ctfio.com/FUZZ -recursion
+```
+
+```
 gobuster dir -u 192.168.50.20 -w /usr/share/wordlists/dirb/common.txt -t
 5
 ```

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Exam Proofs/README.md",
+                "file": "Enumeration/Web HTTP HTTPS/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ffuf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,11 +80,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 200
   },
   "right": {
     "id": "f2bb6ae1fe20a60e",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Exam Proofs/README.md",
+                "file": "Enumeration/Web HTTP HTTPS/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Exam Proofs/README.md",
+                "file": "Enumeration/Web HTTP HTTPS/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Exam Proofs/README.md"
+                "file": "Enumeration/Web HTTP HTTPS/README.md"
               }
             }
           },
@@ -175,10 +176,15 @@
   },
   "active": "4ccf5267ef994666",
   "lastOpenFiles": [
+    "8. Introduction to Web Application Attacks/8.1 Web Application Assessment Methodology/README.md",
+    "_AD_DC/21 Active Directory Introduction and Enumeration/21 Active Directory Introduction and Enumeration.md",
+    "8. Introduction to Web Application Attacks/8.1 Web Application Assessment Methodology",
+    "Untitled",
+    "8. Introduction to Web Application Attacks",
+    "_Exam Proofs/README.md",
     "Privilege Escalation (Linux)/README.md",
     "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
     "firewall/README.md",
-    "_Exam Proofs/README.md",
     "_AD_DC/README.md",
     "Writing the Report/README.md",
     "WinRM 5985 5986/README.md",
@@ -201,7 +207,6 @@
     "Enumeration/LFI RFI/README.md",
     "Encode Decode/URL Encoding and Decoding/README.md",
     "Encode Decode/URL Encoding and Decoding",
-    "Default Ports and Protocols/Default Ports and Protocols/README.md",
     "Default Ports and Protocols/Default Ports and Protocols",
     "Command Execution/php",
     "Bug Codes/ruby",
@@ -211,9 +216,6 @@
     "Privilege Escalation (Linux)/Pasted image 20231021151128.png",
     "Privilege Escalation (Linux)/Linux_PE_Methodology_MAP(1).png",
     "OSCP-Exam-Guide",
-    "Privilege Escalation (Windows)/16.2 Leveraging Windows Services",
-    "~$Common Commands.xlsx",
-    "Common Commands.xlsx",
     "SSH/Pasted image 20231030122335.png",
     "_AD_DC/Pasted image 20231005205250.png",
     "_AD_DC/Pasted image 20231006211541.png",
