@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/Web HTTP HTTPS/README.md",
+                "file": "Netcat nc/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ffuf",
+                "query": "port forward",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Web HTTP HTTPS/README.md",
+                "file": "Netcat nc/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enumeration/Web HTTP HTTPS/README.md",
+                "file": "Netcat nc/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enumeration/Web HTTP HTTPS/README.md"
+                "file": "Netcat nc/README.md"
               }
             }
           },
@@ -176,6 +175,22 @@
   },
   "active": "4ccf5267ef994666",
   "lastOpenFiles": [
+    "SSH/README.md",
+    "Enumeration/nmap/nmap.md",
+    "Privilege Escalation (Windows)/powershell/Execution Policies.md",
+    "Privilege Escalation (Windows)/cmd/Command Prompt.md",
+    "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/16.2.3 Unquoted Service Paths.md",
+    "Privilege Escalation (Windows)/16.2 Leveraging Windows Services/16.2 Leveraging Windows Services.md",
+    "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
+    "Password Cracking/hydra.md",
+    "impacket-/README.md",
+    "_AD_DC/23.1.2 PsExec/23.1.2 PsExec.md",
+    "Enumeration/Web HTTP HTTPS/README.md",
+    "sharing/README.md",
+    "searchsploit/README.md",
+    "msfvenom/README.md",
+    "crackmapexec/README.md",
+    "bloodhound/README.md",
     "8. Introduction to Web Application Attacks/8.1 Web Application Assessment Methodology/README.md",
     "_AD_DC/21 Active Directory Introduction and Enumeration/21 Active Directory Introduction and Enumeration.md",
     "8. Introduction to Web Application Attacks/8.1 Web Application Assessment Methodology",
@@ -190,22 +205,6 @@
     "WinRM 5985 5986/README.md",
     "Useful-Scripts/README.md",
     "Useful Commands/README.md",
-    "Upgrade Shell Spawn/README.md",
-    "Tools installed/README.md",
-    "SSH/README.md",
-    "Privilege Escalation (Windows)/README.md",
-    "Pivoting/ligolo-ng/README.md",
-    "Pivoting/README.md",
-    "OSCP-Exam-Guide/README.md",
-    "Netcat nc/README.md",
-    "Evil-WinRM/README.md",
-    "Evil-WinRM/FTP/README.md",
-    "Enumeration/Web HTTP HTTPS/README.md",
-    "Enumeration/SQLi/README.md",
-    "Enumeration/SNMP/README.md",
-    "Enumeration/SMB Server Message Protocol/README.md",
-    "Enumeration/LFI RFI/README.md",
-    "Encode Decode/URL Encoding and Decoding/README.md",
     "Encode Decode/URL Encoding and Decoding",
     "Default Ports and Protocols/Default Ports and Protocols",
     "Command Execution/php",

