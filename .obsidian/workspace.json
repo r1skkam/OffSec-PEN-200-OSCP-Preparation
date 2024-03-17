@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Netcat nc/README.md",
+                "file": "SSH/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netcat nc/README.md",
+                "file": "SSH/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netcat nc/README.md",
+                "file": "SSH/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netcat nc/README.md"
+                "file": "SSH/README.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "4ccf5267ef994666",
   "lastOpenFiles": [
+    "Netcat nc/README.md",
     "SSH/README.md",
     "Enumeration/nmap/nmap.md",
     "Privilege Escalation (Windows)/powershell/Execution Policies.md",
@@ -204,7 +205,6 @@
     "Writing the Report/README.md",
     "WinRM 5985 5986/README.md",
     "Useful-Scripts/README.md",
-    "Useful Commands/README.md",
     "Encode Decode/URL Encoding and Decoding",
     "Default Ports and Protocols/Default Ports and Protocols",
     "Command Execution/php",

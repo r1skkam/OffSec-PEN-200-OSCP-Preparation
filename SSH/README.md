@@ -56,3 +56,7 @@ sudo proxychains rdesktop $victimIP
 
 ![](Pasted%20image%2020231030122335.png)
 
+```
+sshpass -p 'L1k3B1gBut7s@W0rk' ssh Nadine@10.129.227.77 -L 8443:127.0.0.1:8443
+```
+
