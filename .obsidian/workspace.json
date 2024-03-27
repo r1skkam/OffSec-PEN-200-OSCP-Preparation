@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/README.md",
+                "file": "Privilege Escalation (Linux)/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "port forward",
+                "query": "find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH/README.md",
+                "file": "Privilege Escalation (Linux)/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH/README.md",
+                "file": "Privilege Escalation (Linux)/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH/README.md"
+                "file": "Privilege Escalation (Linux)/README.md"
               }
             }
           },
@@ -175,6 +176,8 @@
   },
   "active": "4ccf5267ef994666",
   "lastOpenFiles": [
+    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+    "impacket-/README.md",
     "Netcat nc/README.md",
     "SSH/README.md",
     "Enumeration/nmap/nmap.md",
@@ -184,7 +187,6 @@
     "Privilege Escalation (Windows)/16.2 Leveraging Windows Services/16.2 Leveraging Windows Services.md",
     "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
     "Password Cracking/hydra.md",
-    "impacket-/README.md",
     "_AD_DC/23.1.2 PsExec/23.1.2 PsExec.md",
     "Enumeration/Web HTTP HTTPS/README.md",
     "sharing/README.md",
@@ -204,7 +206,6 @@
     "_AD_DC/README.md",
     "Writing the Report/README.md",
     "WinRM 5985 5986/README.md",
-    "Useful-Scripts/README.md",
     "Encode Decode/URL Encoding and Decoding",
     "Default Ports and Protocols/Default Ports and Protocols",
     "Command Execution/php",

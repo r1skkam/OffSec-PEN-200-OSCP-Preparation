@@ -19,6 +19,22 @@ sudo su
 find / -perm -4000 2>/dev/null
 ```
 
+```shell-session
+find / -user www-data -type f 2>/dev/null | less
+```
+
+```shell-session
+find / -user bob -type f 2>/dev/null | less
+```
+
+```
+find / -user bob -cmin 1 -type f 2>/dev/null
+```
+
+```
+find / -perm -u=s -type f 2>/dev/null
+```
+
 ```
 cat /etc/polkit-1/localauthority.conf.d/*
 ```
