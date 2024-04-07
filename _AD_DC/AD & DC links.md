@@ -29,3 +29,8 @@ https://youtu.be/gY_9Dncjw-s
 https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 
 https://github.com/dafthack/DomainPasswordSpray
+
+[Tool for Active Directory Certificate Services enumeration and abuse](https://github.com/ly4k/Certipy)
+
+[AD CS Domain Escalation -- HackTricks](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/ad-certificates/domain-escalation)
+

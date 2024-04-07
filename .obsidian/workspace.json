@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation (Linux)/README.md",
+                "file": "_AD_DC/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation (Linux)/README.md",
+                "file": "_AD_DC/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation (Linux)/README.md",
+                "file": "_AD_DC/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation (Linux)/README.md"
+                "file": "_AD_DC/README.md"
               }
             }
           },
@@ -176,8 +175,20 @@
   },
   "active": "4ccf5267ef994666",
   "lastOpenFiles": [
-    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
+    "_AD_DC/AD & DC links.md",
+    "WinRM 5985 5986/README.md",
+    "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
+    "2023-10-22.md",
+    "Database/mssql.md",
     "impacket-/README.md",
+    "Enumeration/SMB Server Message Protocol/README.md",
+    "Privilege Escalation (Windows)/README.md",
+    "_AD_DC/README.md",
+    "Tools installed/README.md",
+    "_AD_DC/22.2.3 Kerberoasting/22.2.3 Kerberoasting.md",
+    "Database/mysql.md",
+    "Privilege Escalation (Linux)/README.md",
+    "Privilege Escalation (Windows)/powershell/Windows PowerShell.md",
     "Netcat nc/README.md",
     "SSH/README.md",
     "Enumeration/nmap/nmap.md",
@@ -185,27 +196,15 @@
     "Privilege Escalation (Windows)/cmd/Command Prompt.md",
     "Privilege Escalation (Windows)/16.2.3 Unquoted Service Paths/16.2.3 Unquoted Service Paths.md",
     "Privilege Escalation (Windows)/16.2 Leveraging Windows Services/16.2 Leveraging Windows Services.md",
-    "Privilege Escalation (Windows)/16.1.4 Information Goldmine PowerShell/16.1.4 Information Goldmine PowerShell.md",
     "Password Cracking/hydra.md",
     "_AD_DC/23.1.2 PsExec/23.1.2 PsExec.md",
     "Enumeration/Web HTTP HTTPS/README.md",
     "sharing/README.md",
     "searchsploit/README.md",
-    "msfvenom/README.md",
-    "crackmapexec/README.md",
-    "bloodhound/README.md",
-    "8. Introduction to Web Application Attacks/8.1 Web Application Assessment Methodology/README.md",
-    "_AD_DC/21 Active Directory Introduction and Enumeration/21 Active Directory Introduction and Enumeration.md",
     "8. Introduction to Web Application Attacks/8.1 Web Application Assessment Methodology",
     "Untitled",
     "8. Introduction to Web Application Attacks",
-    "_Exam Proofs/README.md",
-    "Privilege Escalation (Linux)/README.md",
     "Privilege Escalation (Linux)/Pasted/Linux Privilege Escalation.png",
-    "firewall/README.md",
-    "_AD_DC/README.md",
-    "Writing the Report/README.md",
-    "WinRM 5985 5986/README.md",
     "Encode Decode/URL Encoding and Decoding",
     "Default Ports and Protocols/Default Ports and Protocols",
     "Command Execution/php",

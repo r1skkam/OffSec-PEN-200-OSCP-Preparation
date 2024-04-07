@@ -54,6 +54,10 @@ nmap --script=smb2-security-mode.nse -p445 $IP
 sudo responder -I eth1 -dwPv
 ```
 
+```
+sudo responder -I eth1 -dw
+```
+
 ![](Pasted%20image%2020231021151759.png)
 
 ```

