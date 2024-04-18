@@ -17,6 +17,6 @@ sudo bloodhound
 ```
 
 ```
-sudo bloodhound-python -d domain.local -u username -p password -nc ip -c all
+sudo bloodhound-python -d domain.local -u username -p password -ns ip -c all
 ```
 
