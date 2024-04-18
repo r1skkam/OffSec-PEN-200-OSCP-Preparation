@@ -1,4 +1,8 @@
 ```
+crackmapexec smb $ip -u '' -p '' --shares
+```
+
+```
 crackmapexec smb $ip -u 'guest' -p 'guest'
 ```
 
