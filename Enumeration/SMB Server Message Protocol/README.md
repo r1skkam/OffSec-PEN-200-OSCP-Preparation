@@ -51,7 +51,7 @@ nmap --script=smb2-security-mode.nse -p445 $IP
 ```
 
 ```
-sudo responder -I eth1 -dwPv
+sudo responder -I eth1 -dwP
 ```
 
 ```
