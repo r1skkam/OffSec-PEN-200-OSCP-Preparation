@@ -32,3 +32,4 @@ https://github.com/ly4k/Certipy
 certipy find -u john@corp.local -p Passw0rd -dc-ip 172.16.126.128
 ```
 
+```
